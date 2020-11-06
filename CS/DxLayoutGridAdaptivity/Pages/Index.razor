@@ -1,0 +1,78 @@
+﻿@page "/"
+@inject HttpClient Http
+
+@if(salesData == null) {
+    <LoadingPanel />
+} else {
+    <DxLayoutBreakpoint MaxWidth="779" @bind-IsActive="@isSmallScreen" />
+    <DxLayoutBreakpoint MinWidth="780" MaxWidth="1199" @bind-IsActive="@isMediumScreen" />
+    <div class="p-3 w-100">
+        <DxGridLayout ColumnSpacing="1rem" RowSpacing="1rem">
+            <Rows>
+                @if(isLargeScreen) {
+                    <DxGridLayoutRow Height="508px" />
+                    <DxGridLayoutRow />
+                }
+                @if(isMediumScreen) {
+                    <DxGridLayoutRow Height="250px" />
+                    <DxGridLayoutRow Height="250px" />
+                    <DxGridLayoutRow Height="1fr" />
+                }
+                @if(isSmallScreen) {
+                    <DxGridLayoutRow Height="auto" />
+                    <DxGridLayoutRow Height="auto" />
+                    <DxGridLayoutRow Height="auto" />
+                    <DxGridLayoutRow Height="auto" />
+                }
+            </Rows>
+            <Columns>
+                @if(isLargeScreen) {
+                    <DxGridLayoutColumn />
+                    <DxGridLayoutColumn />
+                    <DxGridLayoutColumn />
+                }
+                @if(isMediumScreen) {
+                    <DxGridLayoutColumn />
+                    <DxGridLayoutColumn />
+                }
+                @if(isSmallScreen) {
+                    <DxGridLayoutColumn />
+                }
+            </Columns>
+            <Items>
+                <DxGridLayoutItem Row="0" Column="0" RowSpan="isMediumScreen ? 2 : 1">
+                    <Template>
+                        <SalesDataGrid Sales="salesData" />
+                    </Template>
+                </DxGridLayoutItem>
+                <DxGridLayoutItem Row="GetRowColIndex(0, 0, 2)" Column="GetRowColIndex(1, 1, 0)">
+                    <Template>
+                        <SalesByCountryChart Sales="salesData" />
+                    </Template>
+                </DxGridLayoutItem>
+                <DxGridLayoutItem Row="GetRowColIndex(0, 1, 3)" Column="GetRowColIndex(2, 1, 0)">
+                    <Template>
+                        <SalesInUSChart Sales="salesData" />
+                    </Template>
+                </DxGridLayoutItem>
+                <DxGridLayoutItem Row="GetRowColIndex(1, 2, 1)" Column="0" ColumnSpan="3">
+                    <Template>
+                        <SalesByCityChart Sales="salesData" />
+                    </Template>
+                </DxGridLayoutItem>
+            </Items>
+        </DxGridLayout>
+    </div>
+}
+
+@code {
+    System.Collections.ObjectModel.ObservableCollection<SaleInfo> salesData;
+    bool isSmallScreen;
+    bool isMediumScreen;
+    bool isLargeScreen => !(isSmallScreen || isMediumScreen);
+    int GetRowColIndex(int largeIndex, int mediumIndex, int smallIndex) => isMediumScreen ? mediumIndex : isSmallScreen ? smallIndex : largeIndex;
+
+    protected override async Task OnInitializedAsync() {
+        salesData = new System.Collections.ObjectModel.ObservableCollection<SaleInfo>(await Http.GetFromJsonAsync<SaleInfo[]>("sample-data/salesdata.json"));
+    }
+}
