@@ -1,0 +1,16 @@
+﻿ <div class="h-100">
+    <DxDataGrid Data="Sales" CssClass="demo-adaptivity-grid text-nowrap h-100" PageSize="15" DataNavigationMode="DataGridNavigationMode.Paging" HorizontalScrollBarMode="ScrollBarMode.Auto" VerticalScrollBarMode="ScrollBarMode.Auto">
+        <Columns>
+            <DxDataGridColumn Field="Region" Width="100px" />
+            <DxDataGridColumn Field="Country" Width="120px" />
+            <DxDataGridColumn Field="City" Width="100px" />
+            <DxDataGridSpinEditColumn Field="Amount" Width="75px" />
+            <DxDataGridColumn Field="ProductName" Caption="Product" Width="200px" />
+            <DxDataGridDateEditColumn Field="Date" Width="80px" />
+        </Columns>
+    </DxDataGrid>
+</div>
+
+@code {
+    [Parameter] public IEnumerable<SaleInfo> Sales { get; set; }
+}
