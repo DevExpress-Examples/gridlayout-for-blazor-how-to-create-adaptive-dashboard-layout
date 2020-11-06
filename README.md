@@ -7,6 +7,18 @@ The example contains solutions for Blazor Server and Blazor WebAssembly.
 <!-- default file list -->
 *Files to look at*:
 
-* [Index.razor](./CS/DxLayoutGridAdaptivity/Pages/Index.razor)
+**Blazor Server**
+* [Index.razor](./CS/DxGridLayoutAdaptivity.Server/Pages/Index.razor)
+* [SalesByCityChart.razor](./CS/DxGridLayoutAdaptivity.Server/Components/SalesByCityChart.razor)
+* [SalesByCountryChart.razor](./CS/DxGridLayoutAdaptivity.Server/Components/SalesByCountryChart.razor)
+* [SalesDataGrid.razor](./CS/DxGridLayoutAdaptivity.Server/Components/SalesDataGrid.razor)
+* [SalesInUSChart.razor](./CS/DxGridLayoutAdaptivity.Server/Components/SalesInUSChart.razor)
+
+**Blazor WebAssembly**
+* [Index.razor](./CS/DxGridLayoutAdaptivity.Wasm/Pages/Index.razor)
+* [SalesByCityChart.razor](./CS/DxGridLayoutAdaptivity.Wasm/Components/SalesByCityChart.razor)
+* [SalesByCountryChart.razor](./CS/DxGridLayoutAdaptivity.Wasm/Components/SalesByCountryChart.razor)
+* [SalesDataGrid.razor](./CS/DxGridLayoutAdaptivity.Wasm/Components/SalesDataGrid.razor)
+* [SalesInUSChart.razor](./CS/DxGridLayoutAdaptivity.Wasm/Components/SalesInUSChart.razor)
 
 <!-- default file list end -->
