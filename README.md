@@ -1,8 +1,8 @@
-# How to create adaptive dashboard layout using DevExpress Blazor GridLayout component
+# Grid Layout for Blazor - How to create an adaptive dashboard layout
 
-This example demonstrates how to create adaptive dashboard layout using [DxGridLayout](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridLayout) and [DxLayoutBreakpoint](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxLayoutBreakpoint) components. Refer to the [Adaptivity](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridLayout#adaptivity) documentation topic for more information.
+This example shows how to use DevExpress [Grid Layout](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridLayout) and [Layout Breakpoint](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxLayoutBreakpoint) components to create an adaptive dashboard layout. Refer to the [Adaptivity](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridLayout#adaptivity) documentation topic for more information.
 
-The example contains solutions both for Blazor Server and Blazor WebAssembly.
+The example contains solutions for Blazor Server and Blazor WebAssembly.
 
 <!-- default file list -->
 *Files to look at*:
