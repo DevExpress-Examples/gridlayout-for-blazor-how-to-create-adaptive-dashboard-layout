@@ -70,7 +70,6 @@
     bool isSmallScreen;
     bool isMediumScreen;
     bool isLargeScreen => !(isSmallScreen || isMediumScreen);
-    int GetRowColIndex(int largeIndex, int mediumIndex, int smallIndex) => isMediumScreen ? mediumIndex : isSmallScreen ? smallIndex : largeIndex;
 
     protected override async Task OnInitializedAsync() {
         salesData = new System.Collections.ObjectModel.ObservableCollection<SaleInfo>(await Http.GetFromJsonAsync<SaleInfo[]>("sample-data/salesdata.json"));
