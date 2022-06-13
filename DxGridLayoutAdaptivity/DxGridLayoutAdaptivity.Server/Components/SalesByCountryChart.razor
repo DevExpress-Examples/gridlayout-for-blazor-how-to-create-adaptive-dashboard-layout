@@ -1,0 +1,16 @@
+﻿<div class="card h-100 overflow-hidden card-item">
+    <div class="card-body">
+        <DxChart Data="Sales" CssClass="h-100">
+            <DxChartTitle Text="Sales Amount by Country, $" />
+            <DxChartCommonSeries NameField="@((SaleInfo s) => s.Date.Year)" ArgumentField="@(s => s.Country)" ValueField="@(s => s.Amount)" AggregationMethod="Enumerable.Sum" SeriesType="ChartSeriesType.StackedBar">
+            </DxChartCommonSeries>
+            <DxChartLegend Orientation="Orientation.Horizontal"
+                           HorizontalAlignment="HorizontalAlignment.Right"
+                           Position="RelativePosition.Inside" />
+        </DxChart>
+    </div>
+</div>
+
+@code {
+    [Parameter] public IEnumerable<SaleInfo> Sales { get; set; }
+}
