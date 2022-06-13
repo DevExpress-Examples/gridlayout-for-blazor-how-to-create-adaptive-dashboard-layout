@@ -1,0 +1,5771 @@
+[
+  {
+    "OrderId": 10248,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 1740,
+    "Date": "2017-01-06T00:00:00",
+    "ProductName": "Road-250 Black, 52"
+  },
+  {
+    "OrderId": 10249,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 850,
+    "Date": "2017-01-13T00:00:00",
+    "ProductName": "LL Mountain Handlebars"
+  },
+  {
+    "OrderId": 10250,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2235,
+    "Date": "2017-01-07T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 48"
+  },
+  {
+    "OrderId": 10251,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1965,
+    "Date": "2017-01-03T00:00:00",
+    "ProductName": "ML Road Frame - Red, 44"
+  },
+  {
+    "OrderId": 10252,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 880,
+    "Date": "2017-01-10T00:00:00",
+    "ProductName": "Road-250 Black, 52"
+  },
+  {
+    "OrderId": 10253,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 5260,
+    "Date": "2017-01-17T00:00:00",
+    "ProductName": "Short-Sleeve Classic Jersey, M"
+  },
+  {
+    "OrderId": 10254,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 2790,
+    "Date": "2017-01-21T00:00:00",
+    "ProductName": "Touring Tire Tube"
+  },
+  {
+    "OrderId": 10255,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 3140,
+    "Date": "2017-01-01T00:00:00",
+    "ProductName": "Road-650 Red, 58"
+  },
+  {
+    "OrderId": 10256,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 6175,
+    "Date": "2017-01-24T00:00:00",
+    "ProductName": "ML Road Frame - Red, 48"
+  },
+  {
+    "OrderId": 10257,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 4575,
+    "Date": "2017-01-11T00:00:00",
+    "ProductName": "ML Road Handlebars"
+  },
+  {
+    "OrderId": 10258,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 3680,
+    "Date": "2017-01-12T00:00:00",
+    "ProductName": "ML Mountain Tire"
+  },
+  {
+    "OrderId": 10259,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 2260,
+    "Date": "2017-01-01T00:00:00",
+    "ProductName": "Road-750 Black, 48"
+  },
+  {
+    "OrderId": 10260,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 2910,
+    "Date": "2017-01-26T00:00:00",
+    "ProductName": "HL Touring Frame - Yellow, 50"
+  },
+  {
+    "OrderId": 10261,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 8400,
+    "Date": "2017-01-05T00:00:00",
+    "ProductName": "LL Touring Frame - Yellow, 62"
+  },
+  {
+    "OrderId": 10262,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 1325,
+    "Date": "2017-01-14T00:00:00",
+    "ProductName": "LL Bottom Bracket"
+  },
+  {
+    "OrderId": 10263,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 3920,
+    "Date": "2017-01-05T00:00:00",
+    "ProductName": "Classic Vest, S"
+  },
+  {
+    "OrderId": 10264,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2220,
+    "Date": "2017-01-15T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 46"
+  },
+  {
+    "OrderId": 10265,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 940,
+    "Date": "2017-01-01T00:00:00",
+    "ProductName": "Road Tire Tube"
+  },
+  {
+    "OrderId": 10266,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1630,
+    "Date": "2017-01-10T00:00:00",
+    "ProductName": "ML Road Handlebars"
+  },
+  {
+    "OrderId": 10267,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2910,
+    "Date": "2017-01-23T00:00:00",
+    "ProductName": "Road-450 Red, 60"
+  },
+  {
+    "OrderId": 10268,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 2600,
+    "Date": "2017-01-14T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 48"
+  },
+  {
+    "OrderId": 10269,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 4340,
+    "Date": "2017-01-26T00:00:00",
+    "ProductName": "Short-Sleeve Classic Jersey, L"
+  },
+  {
+    "OrderId": 10270,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 6650,
+    "Date": "2017-01-24T00:00:00",
+    "ProductName": "Racing Socks, L"
+  },
+  {
+    "OrderId": 10271,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 490,
+    "Date": "2017-01-22T00:00:00",
+    "ProductName": "Mountain Bottle Cage"
+  },
+  {
+    "OrderId": 10272,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 3390,
+    "Date": "2017-01-25T00:00:00",
+    "ProductName": "Mountain-500 Silver, 44"
+  },
+  {
+    "OrderId": 10273,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 5160,
+    "Date": "2017-02-20T00:00:00",
+    "ProductName": "Water Bottle - 30 oz."
+  },
+  {
+    "OrderId": 10274,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 5750,
+    "Date": "2017-02-12T00:00:00",
+    "ProductName": "Mountain-300 Black, 48"
+  },
+  {
+    "OrderId": 10275,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2805,
+    "Date": "2017-02-13T00:00:00",
+    "ProductName": "ML Bottom Bracket"
+  },
+  {
+    "OrderId": 10276,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 2505,
+    "Date": "2017-02-09T00:00:00",
+    "ProductName": "ML Headset"
+  },
+  {
+    "OrderId": 10277,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 930,
+    "Date": "2017-02-04T00:00:00",
+    "ProductName": "Road-750 Black, 44"
+  },
+  {
+    "OrderId": 10278,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 1240,
+    "Date": "2017-02-03T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 48"
+  },
+  {
+    "OrderId": 10279,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 315,
+    "Date": "2017-02-04T00:00:00",
+    "ProductName": "Mountain-500 Black, 40"
+  },
+  {
+    "OrderId": 10280,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2870,
+    "Date": "2017-02-18T00:00:00",
+    "ProductName": "Classic Vest, L"
+  },
+  {
+    "OrderId": 10281,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 5150,
+    "Date": "2017-02-18T00:00:00",
+    "ProductName": "Touring-2000 Blue, 46"
+  },
+  {
+    "OrderId": 10282,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 2725,
+    "Date": "2017-02-20T00:00:00",
+    "ProductName": "Mountain-100 Silver, 38"
+  },
+  {
+    "OrderId": 10283,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 2840,
+    "Date": "2017-02-04T00:00:00",
+    "ProductName": "Road-650 Black, 60"
+  },
+  {
+    "OrderId": 10284,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 5840,
+    "Date": "2017-02-13T00:00:00",
+    "ProductName": "Men's Bib-Shorts, M"
+  },
+  {
+    "OrderId": 10285,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 6750,
+    "Date": "2017-02-11T00:00:00",
+    "ProductName": "Touring-3000 Blue, 50"
+  },
+  {
+    "OrderId": 10286,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 1200,
+    "Date": "2017-02-03T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 44"
+  },
+  {
+    "OrderId": 10287,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 4550,
+    "Date": "2017-02-08T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 46"
+  },
+  {
+    "OrderId": 10288,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 6040,
+    "Date": "2017-02-17T00:00:00",
+    "ProductName": "Mountain-300 Black, 44"
+  },
+  {
+    "OrderId": 10289,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2205,
+    "Date": "2017-02-08T00:00:00",
+    "ProductName": "Mountain Tire Tube"
+  },
+  {
+    "OrderId": 10290,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 990,
+    "Date": "2017-02-20T00:00:00",
+    "ProductName": "LL Road Frame - Black, 60"
+  },
+  {
+    "OrderId": 10291,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 700,
+    "Date": "2017-02-11T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 58"
+  },
+  {
+    "OrderId": 10292,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2325,
+    "Date": "2017-02-15T00:00:00",
+    "ProductName": "Mountain-200 Silver, 42"
+  },
+  {
+    "OrderId": 10293,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 930,
+    "Date": "2017-02-21T00:00:00",
+    "ProductName": "Minipump"
+  },
+  {
+    "OrderId": 10294,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 1560,
+    "Date": "2017-02-04T00:00:00",
+    "ProductName": "LL Touring Handlebars"
+  },
+  {
+    "OrderId": 10295,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 1740,
+    "Date": "2017-03-04T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 46"
+  },
+  {
+    "OrderId": 10296,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 3575,
+    "Date": "2017-03-20T00:00:00",
+    "ProductName": "Road-150 Red, 52"
+  },
+  {
+    "OrderId": 10297,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 4500,
+    "Date": "2017-03-04T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 38"
+  },
+  {
+    "OrderId": 10298,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1605,
+    "Date": "2017-03-17T00:00:00",
+    "ProductName": "Chain"
+  },
+  {
+    "OrderId": 10299,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 800,
+    "Date": "2017-03-21T00:00:00",
+    "ProductName": "Touring-1000 Blue, 46"
+  },
+  {
+    "OrderId": 10300,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 640,
+    "Date": "2017-03-08T00:00:00",
+    "ProductName": "LL Road Frame - Red, 58"
+  },
+  {
+    "OrderId": 10301,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 735,
+    "Date": "2017-03-19T00:00:00",
+    "ProductName": "Touring-1000 Blue, 60"
+  },
+  {
+    "OrderId": 10302,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2520,
+    "Date": "2017-03-20T00:00:00",
+    "ProductName": "ML Mountain Rear Wheel"
+  },
+  {
+    "OrderId": 10303,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 6675,
+    "Date": "2017-03-18T00:00:00",
+    "ProductName": "ML Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10304,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 3625,
+    "Date": "2017-03-25T00:00:00",
+    "ProductName": "ML Road Tire"
+  },
+  {
+    "OrderId": 10305,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 1200,
+    "Date": "2017-03-07T00:00:00",
+    "ProductName": "Racing Socks, M"
+  },
+  {
+    "OrderId": 10306,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 2000,
+    "Date": "2017-03-07T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 48"
+  },
+  {
+    "OrderId": 10307,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 1410,
+    "Date": "2017-03-10T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 42"
+  },
+  {
+    "OrderId": 10308,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 2700,
+    "Date": "2017-03-19T00:00:00",
+    "ProductName": "Road-550-W Yellow, 42"
+  },
+  {
+    "OrderId": 10309,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 5950,
+    "Date": "2017-03-24T00:00:00",
+    "ProductName": "LL Mountain Tire"
+  },
+  {
+    "OrderId": 10310,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 5120,
+    "Date": "2017-03-08T00:00:00",
+    "ProductName": "Touring-2000 Blue, 60"
+  },
+  {
+    "OrderId": 10311,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 1980,
+    "Date": "2017-03-17T00:00:00",
+    "ProductName": "ML Road Frame - Red, 58"
+  },
+  {
+    "OrderId": 10312,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1110,
+    "Date": "2017-03-08T00:00:00",
+    "ProductName": "LL Touring Frame - Yellow, 62"
+  },
+  {
+    "OrderId": 10313,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 980,
+    "Date": "2017-03-21T00:00:00",
+    "ProductName": "HL Road Pedal"
+  },
+  {
+    "OrderId": 10314,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 5460,
+    "Date": "2017-03-19T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 48"
+  },
+  {
+    "OrderId": 10315,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 3800,
+    "Date": "2017-03-12T00:00:00",
+    "ProductName": "LL Mountain Frame - Silver, 42"
+  },
+  {
+    "OrderId": 10316,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2610,
+    "Date": "2017-03-04T00:00:00",
+    "ProductName": "HL Road Front Wheel"
+  },
+  {
+    "OrderId": 10317,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 3080,
+    "Date": "2017-03-22T00:00:00",
+    "ProductName": "HL Road Tire"
+  },
+  {
+    "OrderId": 10318,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 2010,
+    "Date": "2017-03-23T00:00:00",
+    "ProductName": "AWC Logo Cap"
+  },
+  {
+    "OrderId": 10319,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 1200,
+    "Date": "2017-03-04T00:00:00",
+    "ProductName": "Road-650 Red, 44"
+  },
+  {
+    "OrderId": 10320,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 7680,
+    "Date": "2017-04-15T00:00:00",
+    "ProductName": "Road-250 Red, 52"
+  },
+  {
+    "OrderId": 10321,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 1325,
+    "Date": "2017-04-07T00:00:00",
+    "ProductName": "Mountain-100 Silver, 38"
+  },
+  {
+    "OrderId": 10322,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2835,
+    "Date": "2017-04-10T00:00:00",
+    "ProductName": "Touring-1000 Blue, 50"
+  },
+  {
+    "OrderId": 10323,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 3660,
+    "Date": "2017-04-10T00:00:00",
+    "ProductName": "LL Mountain Rear Wheel"
+  },
+  {
+    "OrderId": 10324,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 390,
+    "Date": "2017-04-12T00:00:00",
+    "ProductName": "Classic Vest, M"
+  },
+  {
+    "OrderId": 10325,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 4420,
+    "Date": "2017-04-08T00:00:00",
+    "ProductName": "LL Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10326,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 1755,
+    "Date": "2017-04-13T00:00:00",
+    "ProductName": "Road-250 Black, 52"
+  },
+  {
+    "OrderId": 10327,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2580,
+    "Date": "2017-04-15T00:00:00",
+    "ProductName": "Headlights - Dual-Beam"
+  },
+  {
+    "OrderId": 10328,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 850,
+    "Date": "2017-04-01T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 42"
+  },
+  {
+    "OrderId": 10329,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 2825,
+    "Date": "2017-04-10T00:00:00",
+    "ProductName": "Road-150 Red, 44"
+  },
+  {
+    "OrderId": 10330,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 540,
+    "Date": "2017-04-06T00:00:00",
+    "ProductName": "HL Touring Handlebars"
+  },
+  {
+    "OrderId": 10331,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 1520,
+    "Date": "2017-04-08T00:00:00",
+    "ProductName": "Mountain-400-W Silver, 46"
+  },
+  {
+    "OrderId": 10332,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 8760,
+    "Date": "2017-04-26T00:00:00",
+    "ProductName": "Road-150 Red, 44"
+  },
+  {
+    "OrderId": 10333,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 1110,
+    "Date": "2017-04-16T00:00:00",
+    "ProductName": "Touring-3000 Blue, 58"
+  },
+  {
+    "OrderId": 10334,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 6850,
+    "Date": "2017-04-19T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 62"
+  },
+  {
+    "OrderId": 10335,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 1940,
+    "Date": "2017-04-23T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 54"
+  },
+  {
+    "OrderId": 10336,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 1980,
+    "Date": "2017-04-21T00:00:00",
+    "ProductName": "Men's Sports Shorts, XL"
+  },
+  {
+    "OrderId": 10337,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 3090,
+    "Date": "2017-04-03T00:00:00",
+    "ProductName": "Half-Finger Gloves, M"
+  },
+  {
+    "OrderId": 10338,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1640,
+    "Date": "2017-04-24T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 42"
+  },
+  {
+    "OrderId": 10339,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 3585,
+    "Date": "2017-04-01T00:00:00",
+    "ProductName": "Mountain-400-W Silver, 42"
+  },
+  {
+    "OrderId": 10340,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1770,
+    "Date": "2017-04-01T00:00:00",
+    "ProductName": "ML Road Pedal"
+  },
+  {
+    "OrderId": 10341,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 4005,
+    "Date": "2017-04-04T00:00:00",
+    "ProductName": "LL Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10342,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2870,
+    "Date": "2017-04-02T00:00:00",
+    "ProductName": "LL Touring Handlebars"
+  },
+  {
+    "OrderId": 10343,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 960,
+    "Date": "2017-04-20T00:00:00",
+    "ProductName": "Half-Finger Gloves, S"
+  },
+  {
+    "OrderId": 10344,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 8640,
+    "Date": "2017-05-14T00:00:00",
+    "ProductName": "Touring-1000 Blue, 54"
+  },
+  {
+    "OrderId": 10345,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 5450,
+    "Date": "2017-05-24T00:00:00",
+    "ProductName": "Mountain-500 Silver, 52"
+  },
+  {
+    "OrderId": 10346,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2535,
+    "Date": "2017-05-07T00:00:00",
+    "ProductName": "Mountain-200 Black, 42"
+  },
+  {
+    "OrderId": 10347,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1155,
+    "Date": "2017-05-20T00:00:00",
+    "ProductName": "HL Road Frame - Black, 52"
+  },
+  {
+    "OrderId": 10348,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 3140,
+    "Date": "2017-05-18T00:00:00",
+    "ProductName": "AWC Logo Cap"
+  },
+  {
+    "OrderId": 10349,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 2260,
+    "Date": "2017-05-19T00:00:00",
+    "ProductName": "ML Road Frame - Red, 52"
+  },
+  {
+    "OrderId": 10350,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 1215,
+    "Date": "2017-05-23T00:00:00",
+    "ProductName": "Mountain Tire Tube"
+  },
+  {
+    "OrderId": 10351,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1210,
+    "Date": "2017-05-08T00:00:00",
+    "ProductName": "LL Road Front Wheel"
+  },
+  {
+    "OrderId": 10352,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 875,
+    "Date": "2017-05-25T00:00:00",
+    "ProductName": "LL Mountain Front Wheel"
+  },
+  {
+    "OrderId": 10353,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 5400,
+    "Date": "2017-05-03T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 50"
+  },
+  {
+    "OrderId": 10354,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 5940,
+    "Date": "2017-05-25T00:00:00",
+    "ProductName": "Hydration Pack - 70 oz."
+  },
+  {
+    "OrderId": 10355,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 4700,
+    "Date": "2017-05-03T00:00:00",
+    "ProductName": "Touring-1000 Yellow, 60"
+  },
+  {
+    "OrderId": 10356,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 5520,
+    "Date": "2017-05-12T00:00:00",
+    "ProductName": "HL Road Frame - Red, 58"
+  },
+  {
+    "OrderId": 10357,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 9210,
+    "Date": "2017-05-22T00:00:00",
+    "ProductName": "HL Road Frame - Black, 58"
+  },
+  {
+    "OrderId": 10358,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 7950,
+    "Date": "2017-05-12T00:00:00",
+    "ProductName": "Road-150 Red, 48"
+  },
+  {
+    "OrderId": 10359,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 3740,
+    "Date": "2017-05-24T00:00:00",
+    "ProductName": "LL Road Frame - Red, 44"
+  },
+  {
+    "OrderId": 10360,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 990,
+    "Date": "2017-05-02T00:00:00",
+    "ProductName": "Mountain-200 Black, 42"
+  },
+  {
+    "OrderId": 10361,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 3190,
+    "Date": "2017-05-03T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 58"
+  },
+  {
+    "OrderId": 10362,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 2430,
+    "Date": "2017-05-11T00:00:00",
+    "ProductName": "HL Road Frame - Black, 58"
+  },
+  {
+    "OrderId": 10363,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 7380,
+    "Date": "2017-06-15T00:00:00",
+    "ProductName": "Road-150 Red, 56"
+  },
+  {
+    "OrderId": 10364,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 4475,
+    "Date": "2017-06-08T00:00:00",
+    "ProductName": "Mountain-400-W Silver, 38"
+  },
+  {
+    "OrderId": 10365,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 1290,
+    "Date": "2017-06-10T00:00:00",
+    "ProductName": "Touring-1000 Blue, 60"
+  },
+  {
+    "OrderId": 10366,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 2250,
+    "Date": "2017-06-10T00:00:00",
+    "ProductName": "Mountain-500 Silver, 40"
+  },
+  {
+    "OrderId": 10367,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 350,
+    "Date": "2017-06-22T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 48"
+  },
+  {
+    "OrderId": 10368,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 5480,
+    "Date": "2017-06-24T00:00:00",
+    "ProductName": "Road-350-W Yellow, 42"
+  },
+  {
+    "OrderId": 10369,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 2355,
+    "Date": "2017-06-10T00:00:00",
+    "ProductName": "HL Road Pedal"
+  },
+  {
+    "OrderId": 10370,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1960,
+    "Date": "2017-06-23T00:00:00",
+    "ProductName": "Road-650 Black, 52"
+  },
+  {
+    "OrderId": 10371,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 4125,
+    "Date": "2017-06-06T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 44"
+  },
+  {
+    "OrderId": 10372,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 7925,
+    "Date": "2017-06-12T00:00:00",
+    "ProductName": "HL Fork"
+  },
+  {
+    "OrderId": 10373,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 1120,
+    "Date": "2017-06-22T00:00:00",
+    "ProductName": "LL Road Frame - Red, 60"
+  },
+  {
+    "OrderId": 10374,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 5100,
+    "Date": "2017-06-01T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 38"
+  },
+  {
+    "OrderId": 10375,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 1500,
+    "Date": "2017-06-25T00:00:00",
+    "ProductName": "Hydration Pack - 70 oz."
+  },
+  {
+    "OrderId": 10376,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 5130,
+    "Date": "2017-06-10T00:00:00",
+    "ProductName": "ML Mountain Rear Wheel"
+  },
+  {
+    "OrderId": 10377,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 2475,
+    "Date": "2017-06-10T00:00:00",
+    "ProductName": "HL Road Handlebars"
+  },
+  {
+    "OrderId": 10378,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 2100,
+    "Date": "2017-06-06T00:00:00",
+    "ProductName": "Men's Bib-Shorts, S"
+  },
+  {
+    "OrderId": 10379,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 3570,
+    "Date": "2017-06-10T00:00:00",
+    "ProductName": "Hitch Rack - 4-Bike"
+  },
+  {
+    "OrderId": 10380,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 550,
+    "Date": "2017-06-02T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 40"
+  },
+  {
+    "OrderId": 10381,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 2850,
+    "Date": "2017-06-26T00:00:00",
+    "ProductName": "Touring-1000 Yellow, 50"
+  },
+  {
+    "OrderId": 10382,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 4280,
+    "Date": "2017-06-19T00:00:00",
+    "ProductName": "HL Road Frame - Black, 48"
+  },
+  {
+    "OrderId": 10383,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 1460,
+    "Date": "2017-06-17T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 50"
+  },
+  {
+    "OrderId": 10384,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 960,
+    "Date": "2017-06-17T00:00:00",
+    "ProductName": "Touring Rear Wheel"
+  },
+  {
+    "OrderId": 10385,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1520,
+    "Date": "2017-06-03T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 42"
+  },
+  {
+    "OrderId": 10386,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 6750,
+    "Date": "2017-06-21T00:00:00",
+    "ProductName": "Patch Kit/8 Patches"
+  },
+  {
+    "OrderId": 10387,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 7260,
+    "Date": "2017-07-14T00:00:00",
+    "ProductName": "Men's Bib-Shorts, S"
+  },
+  {
+    "OrderId": 10388,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 2450,
+    "Date": "2017-07-11T00:00:00",
+    "ProductName": "Mountain-200 Black, 46"
+  },
+  {
+    "OrderId": 10389,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 3540,
+    "Date": "2017-07-02T00:00:00",
+    "ProductName": "Long-Sleeve Logo Jersey, S"
+  },
+  {
+    "OrderId": 10390,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1950,
+    "Date": "2017-07-03T00:00:00",
+    "ProductName": "Rear Derailleur"
+  },
+  {
+    "OrderId": 10391,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 360,
+    "Date": "2017-07-07T00:00:00",
+    "ProductName": "Men's Sports Shorts, XL"
+  },
+  {
+    "OrderId": 10392,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 4500,
+    "Date": "2017-07-03T00:00:00",
+    "ProductName": "ML Road Handlebars"
+  },
+  {
+    "OrderId": 10393,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 4575,
+    "Date": "2017-07-21T00:00:00",
+    "ProductName": "HL Road Handlebars"
+  },
+  {
+    "OrderId": 10394,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2310,
+    "Date": "2017-07-18T00:00:00",
+    "ProductName": "ML Mountain Frame-W - Silver, 40"
+  },
+  {
+    "OrderId": 10395,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 7500,
+    "Date": "2017-07-04T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 46"
+  },
+  {
+    "OrderId": 10396,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 3575,
+    "Date": "2017-07-23T00:00:00",
+    "ProductName": "HL Mountain Seat/Saddle"
+  },
+  {
+    "OrderId": 10397,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 760,
+    "Date": "2017-07-01T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 62"
+  },
+  {
+    "OrderId": 10398,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 2400,
+    "Date": "2017-07-11T00:00:00",
+    "ProductName": "Fender Set - Mountain"
+  },
+  {
+    "OrderId": 10399,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 3330,
+    "Date": "2017-07-04T00:00:00",
+    "ProductName": "Road-750 Black, 48"
+  },
+  {
+    "OrderId": 10400,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 3480,
+    "Date": "2017-07-23T00:00:00",
+    "ProductName": "Mountain Bike Socks, M"
+  },
+  {
+    "OrderId": 10401,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 4875,
+    "Date": "2017-07-11T00:00:00",
+    "ProductName": "Men's Bib-Shorts, M"
+  },
+  {
+    "OrderId": 10402,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 4980,
+    "Date": "2017-07-19T00:00:00",
+    "ProductName": "Classic Vest, M"
+  },
+  {
+    "OrderId": 10403,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2580,
+    "Date": "2017-07-04T00:00:00",
+    "ProductName": "Mountain-100 Silver, 38"
+  },
+  {
+    "OrderId": 10404,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 2650,
+    "Date": "2017-07-16T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 54"
+  },
+  {
+    "OrderId": 10405,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1190,
+    "Date": "2017-07-02T00:00:00",
+    "ProductName": "Touring-3000 Blue, 62"
+  },
+  {
+    "OrderId": 10406,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 960,
+    "Date": "2017-07-26T00:00:00",
+    "ProductName": "HL Road Frame - Red, 48"
+  },
+  {
+    "OrderId": 10407,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 3600,
+    "Date": "2017-08-08T00:00:00",
+    "ProductName": "Road-250 Red, 48"
+  },
+  {
+    "OrderId": 10408,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 2250,
+    "Date": "2017-08-01T00:00:00",
+    "ProductName": "Mountain-100 Black, 44"
+  },
+  {
+    "OrderId": 10409,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 1275,
+    "Date": "2017-08-02T00:00:00",
+    "ProductName": "Road-750 Black, 52"
+  },
+  {
+    "OrderId": 10410,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 3885,
+    "Date": "2017-08-14T00:00:00",
+    "ProductName": "HL Road Frame - Black, 62"
+  },
+  {
+    "OrderId": 10411,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 1900,
+    "Date": "2017-08-05T00:00:00",
+    "ProductName": "HL Touring Frame - Blue, 60"
+  },
+  {
+    "OrderId": 10412,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 2300,
+    "Date": "2017-08-09T00:00:00",
+    "ProductName": "Men's Sports Shorts, M"
+  },
+  {
+    "OrderId": 10413,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 2895,
+    "Date": "2017-08-15T00:00:00",
+    "ProductName": "Racing Socks, M"
+  },
+  {
+    "OrderId": 10414,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 350,
+    "Date": "2017-08-20T00:00:00",
+    "ProductName": "HL Touring Frame - Blue, 54"
+  },
+  {
+    "OrderId": 10415,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 4200,
+    "Date": "2017-08-22T00:00:00",
+    "ProductName": "ML Road Rear Wheel"
+  },
+  {
+    "OrderId": 10416,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 7175,
+    "Date": "2017-08-14T00:00:00",
+    "ProductName": "Road-650 Red, 44"
+  },
+  {
+    "OrderId": 10417,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 4420,
+    "Date": "2017-08-24T00:00:00",
+    "ProductName": "HL Mountain Handlebars"
+  },
+  {
+    "OrderId": 10418,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 5200,
+    "Date": "2017-08-21T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 42"
+  },
+  {
+    "OrderId": 10419,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 7920,
+    "Date": "2017-08-17T00:00:00",
+    "ProductName": "Men's Sports Shorts, XL"
+  },
+  {
+    "OrderId": 10420,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 6990,
+    "Date": "2017-08-22T00:00:00",
+    "ProductName": "Road-550-W Yellow, 48"
+  },
+  {
+    "OrderId": 10421,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 2125,
+    "Date": "2017-08-05T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 40"
+  },
+  {
+    "OrderId": 10422,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 2220,
+    "Date": "2017-08-16T00:00:00",
+    "ProductName": "Taillights - Battery-Powered"
+  },
+  {
+    "OrderId": 10423,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 1575,
+    "Date": "2017-08-23T00:00:00",
+    "ProductName": "Touring-1000 Blue, 46"
+  },
+  {
+    "OrderId": 10424,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1880,
+    "Date": "2017-08-12T00:00:00",
+    "ProductName": "Road-150 Red, 44"
+  },
+  {
+    "OrderId": 10425,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 710,
+    "Date": "2017-08-25T00:00:00",
+    "ProductName": "LL Mountain Frame - Silver, 48"
+  },
+  {
+    "OrderId": 10426,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 390,
+    "Date": "2017-08-20T00:00:00",
+    "ProductName": "Women's Tights, L"
+  },
+  {
+    "OrderId": 10427,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 4635,
+    "Date": "2017-08-04T00:00:00",
+    "ProductName": "Mountain-500 Black, 42"
+  },
+  {
+    "OrderId": 10428,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 4350,
+    "Date": "2017-08-19T00:00:00",
+    "ProductName": "HL Mountain Rear Wheel"
+  },
+  {
+    "OrderId": 10429,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 6020,
+    "Date": "2017-08-02T00:00:00",
+    "ProductName": "Mountain-200 Silver, 42"
+  },
+  {
+    "OrderId": 10430,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 3660,
+    "Date": "2017-08-19T00:00:00",
+    "ProductName": "Touring-1000 Blue, 60"
+  },
+  {
+    "OrderId": 10431,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 4525,
+    "Date": "2017-08-24T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 48"
+  },
+  {
+    "OrderId": 10432,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 4410,
+    "Date": "2017-09-12T00:00:00",
+    "ProductName": "LL Mountain Pedal"
+  },
+  {
+    "OrderId": 10433,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 1725,
+    "Date": "2017-09-07T00:00:00",
+    "ProductName": "Men's Bib-Shorts, L"
+  },
+  {
+    "OrderId": 10434,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2715,
+    "Date": "2017-09-14T00:00:00",
+    "ProductName": "Road Bottle Cage"
+  },
+  {
+    "OrderId": 10435,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 2820,
+    "Date": "2017-09-08T00:00:00",
+    "ProductName": "Road-350-W Yellow, 48"
+  },
+  {
+    "OrderId": 10436,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2310,
+    "Date": "2017-09-12T00:00:00",
+    "ProductName": "Road-250 Black, 52"
+  },
+  {
+    "OrderId": 10437,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 780,
+    "Date": "2017-09-08T00:00:00",
+    "ProductName": "Mountain-100 Silver, 42"
+  },
+  {
+    "OrderId": 10438,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 2370,
+    "Date": "2017-09-19T00:00:00",
+    "ProductName": "ML Road Tire"
+  },
+  {
+    "OrderId": 10439,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1410,
+    "Date": "2017-09-09T00:00:00",
+    "ProductName": "Women's Mountain Shorts, M"
+  },
+  {
+    "OrderId": 10440,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 1825,
+    "Date": "2017-09-23T00:00:00",
+    "ProductName": "ML Road Front Wheel"
+  },
+  {
+    "OrderId": 10441,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 4075,
+    "Date": "2017-09-06T00:00:00",
+    "ProductName": "Mountain-300 Black, 44"
+  },
+  {
+    "OrderId": 10442,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 1020,
+    "Date": "2017-09-04T00:00:00",
+    "ProductName": "Mountain-200 Black, 42"
+  },
+  {
+    "OrderId": 10443,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 4320,
+    "Date": "2017-09-25T00:00:00",
+    "ProductName": "Mountain-200 Black, 46"
+  },
+  {
+    "OrderId": 10444,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 7530,
+    "Date": "2017-09-13T00:00:00",
+    "ProductName": "Hitch Rack - 4-Bike"
+  },
+  {
+    "OrderId": 10445,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 2820,
+    "Date": "2017-09-08T00:00:00",
+    "ProductName": "HL Road Frame - Red, 58"
+  },
+  {
+    "OrderId": 10446,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 3050,
+    "Date": "2017-09-04T00:00:00",
+    "ProductName": "HL Road Frame - Red, 58"
+  },
+  {
+    "OrderId": 10447,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 5080,
+    "Date": "2017-09-25T00:00:00",
+    "ProductName": "HL Mountain Pedal"
+  },
+  {
+    "OrderId": 10448,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 1125,
+    "Date": "2017-09-13T00:00:00",
+    "ProductName": "Mountain Tire Tube"
+  },
+  {
+    "OrderId": 10449,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 850,
+    "Date": "2017-09-24T00:00:00",
+    "ProductName": "Mountain-200 Silver, 46"
+  },
+  {
+    "OrderId": 10450,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1440,
+    "Date": "2017-09-19T00:00:00",
+    "ProductName": "Mountain-400-W Silver, 46"
+  },
+  {
+    "OrderId": 10451,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1950,
+    "Date": "2017-09-02T00:00:00",
+    "ProductName": "LL Headset"
+  },
+  {
+    "OrderId": 10452,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 6390,
+    "Date": "2017-10-11T00:00:00",
+    "ProductName": "Road-350-W Yellow, 40"
+  },
+  {
+    "OrderId": 10453,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 4625,
+    "Date": "2017-10-02T00:00:00",
+    "ProductName": "ML Road Frame - Red, 48"
+  },
+  {
+    "OrderId": 10454,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 3510,
+    "Date": "2017-10-24T00:00:00",
+    "ProductName": "LL Touring Frame - Yellow, 54"
+  },
+  {
+    "OrderId": 10455,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 2730,
+    "Date": "2017-10-15T00:00:00",
+    "ProductName": "Racing Socks, L"
+  },
+  {
+    "OrderId": 10456,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2070,
+    "Date": "2017-10-15T00:00:00",
+    "ProductName": "Long-Sleeve Logo Jersey, L"
+  },
+  {
+    "OrderId": 10457,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 2320,
+    "Date": "2017-10-18T00:00:00",
+    "ProductName": "LL Touring Frame - Yellow, 44"
+  },
+  {
+    "OrderId": 10458,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 4260,
+    "Date": "2017-10-24T00:00:00",
+    "ProductName": "LL Road Frame - Red, 44"
+  },
+  {
+    "OrderId": 10459,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 840,
+    "Date": "2017-10-18T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 38"
+  },
+  {
+    "OrderId": 10460,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 7300,
+    "Date": "2017-10-24T00:00:00",
+    "ProductName": "HL Mountain Handlebars"
+  },
+  {
+    "OrderId": 10461,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 5950,
+    "Date": "2017-10-11T00:00:00",
+    "ProductName": "LL Road Frame - Red, 58"
+  },
+  {
+    "OrderId": 10462,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 3220,
+    "Date": "2017-10-25T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 62"
+  },
+  {
+    "OrderId": 10463,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 3480,
+    "Date": "2017-10-08T00:00:00",
+    "ProductName": "HL Bottom Bracket"
+  },
+  {
+    "OrderId": 10464,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 4830,
+    "Date": "2017-10-26T00:00:00",
+    "ProductName": "ML Road Frame - Red, 60"
+  },
+  {
+    "OrderId": 10465,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 4470,
+    "Date": "2017-10-05T00:00:00",
+    "ProductName": "HL Mountain Seat/Saddle"
+  },
+  {
+    "OrderId": 10466,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 3675,
+    "Date": "2017-10-23T00:00:00",
+    "ProductName": "Touring-1000 Yellow, 60"
+  },
+  {
+    "OrderId": 10467,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 4260,
+    "Date": "2017-10-01T00:00:00",
+    "ProductName": "Mountain-500 Black, 48"
+  },
+  {
+    "OrderId": 10468,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 4245,
+    "Date": "2017-10-26T00:00:00",
+    "ProductName": "HL Road Frame - Red, 58"
+  },
+  {
+    "OrderId": 10469,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1470,
+    "Date": "2017-10-01T00:00:00",
+    "ProductName": "ML Touring Seat/Saddle"
+  },
+  {
+    "OrderId": 10470,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1810,
+    "Date": "2017-10-02T00:00:00",
+    "ProductName": "LL Road Frame - Black, 48"
+  },
+  {
+    "OrderId": 10471,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 600,
+    "Date": "2017-10-23T00:00:00",
+    "ProductName": "Mountain-500 Black, 42"
+  },
+  {
+    "OrderId": 10472,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 7500,
+    "Date": "2017-11-03T00:00:00",
+    "ProductName": "Fender Set - Mountain"
+  },
+  {
+    "OrderId": 10473,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 4625,
+    "Date": "2017-11-02T00:00:00",
+    "ProductName": "Road-650 Red, 60"
+  },
+  {
+    "OrderId": 10474,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2625,
+    "Date": "2017-11-09T00:00:00",
+    "ProductName": "LL Road Frame - Black, 44"
+  },
+  {
+    "OrderId": 10475,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1440,
+    "Date": "2017-11-15T00:00:00",
+    "ProductName": "HL Road Frame - Red, 48"
+  },
+  {
+    "OrderId": 10476,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2420,
+    "Date": "2017-11-15T00:00:00",
+    "ProductName": "Road-450 Red, 60"
+  },
+  {
+    "OrderId": 10477,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 4180,
+    "Date": "2017-11-15T00:00:00",
+    "ProductName": "Road-650 Black, 60"
+  },
+  {
+    "OrderId": 10478,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 3720,
+    "Date": "2017-11-25T00:00:00",
+    "ProductName": "Road-250 Black, 48"
+  },
+  {
+    "OrderId": 10479,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2730,
+    "Date": "2017-11-08T00:00:00",
+    "ProductName": "Road-150 Red, 62"
+  },
+  {
+    "OrderId": 10480,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 3775,
+    "Date": "2017-11-17T00:00:00",
+    "ProductName": "LL Mountain Frame - Silver, 44"
+  },
+  {
+    "OrderId": 10481,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 3525,
+    "Date": "2017-11-15T00:00:00",
+    "ProductName": "HL Touring Seat/Saddle"
+  },
+  {
+    "OrderId": 10482,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 5320,
+    "Date": "2017-11-08T00:00:00",
+    "ProductName": "Mountain-100 Silver, 48"
+  },
+  {
+    "OrderId": 10483,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 5340,
+    "Date": "2017-11-13T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 38"
+  },
+  {
+    "OrderId": 10484,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 8850,
+    "Date": "2017-11-01T00:00:00",
+    "ProductName": "Road-550-W Yellow, 38"
+  },
+  {
+    "OrderId": 10485,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 7050,
+    "Date": "2017-11-14T00:00:00",
+    "ProductName": "Women's Mountain Shorts, L"
+  },
+  {
+    "OrderId": 10486,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 4200,
+    "Date": "2017-11-18T00:00:00",
+    "ProductName": "Touring-2000 Blue, 60"
+  },
+  {
+    "OrderId": 10487,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 4960,
+    "Date": "2017-11-04T00:00:00",
+    "ProductName": "Rear Brakes"
+  },
+  {
+    "OrderId": 10488,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2280,
+    "Date": "2017-11-13T00:00:00",
+    "ProductName": "Touring-1000 Yellow, 54"
+  },
+  {
+    "OrderId": 10489,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 590,
+    "Date": "2017-11-11T00:00:00",
+    "ProductName": "Road-750 Black, 44"
+  },
+  {
+    "OrderId": 10490,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 810,
+    "Date": "2017-11-12T00:00:00",
+    "ProductName": "Touring-1000 Blue, 46"
+  },
+  {
+    "OrderId": 10491,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 2625,
+    "Date": "2017-11-07T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 50"
+  },
+  {
+    "OrderId": 10492,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 8280,
+    "Date": "2017-12-01T00:00:00",
+    "ProductName": "Road-150 Red, 48"
+  },
+  {
+    "OrderId": 10493,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 5650,
+    "Date": "2017-12-19T00:00:00",
+    "ProductName": "HL Touring Frame - Yellow, 50"
+  },
+  {
+    "OrderId": 10494,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2760,
+    "Date": "2017-12-14T00:00:00",
+    "ProductName": "Road-650 Red, 44"
+  },
+  {
+    "OrderId": 10495,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 2670,
+    "Date": "2017-12-03T00:00:00",
+    "ProductName": "Road-250 Black, 52"
+  },
+  {
+    "OrderId": 10496,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2520,
+    "Date": "2017-12-20T00:00:00",
+    "ProductName": "Touring Front Wheel"
+  },
+  {
+    "OrderId": 10497,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 4080,
+    "Date": "2017-12-21T00:00:00",
+    "ProductName": "Mountain-300 Black, 40"
+  },
+  {
+    "OrderId": 10498,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 4140,
+    "Date": "2017-12-22T00:00:00",
+    "ProductName": "Road-450 Red, 58"
+  },
+  {
+    "OrderId": 10499,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 390,
+    "Date": "2017-12-04T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 62"
+  },
+  {
+    "OrderId": 10500,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 1400,
+    "Date": "2017-12-19T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 38"
+  },
+  {
+    "OrderId": 10501,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 7275,
+    "Date": "2017-12-22T00:00:00",
+    "ProductName": "Long-Sleeve Logo Jersey, M"
+  },
+  {
+    "OrderId": 10502,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 4100,
+    "Date": "2017-12-20T00:00:00",
+    "ProductName": "LL Mountain Pedal"
+  },
+  {
+    "OrderId": 10503,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 5520,
+    "Date": "2017-12-25T00:00:00",
+    "ProductName": "Sport-100 Helmet, Blue"
+  },
+  {
+    "OrderId": 10504,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 9210,
+    "Date": "2017-12-24T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 38"
+  },
+  {
+    "OrderId": 10505,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 7290,
+    "Date": "2017-12-05T00:00:00",
+    "ProductName": "Mountain-500 Black, 52"
+  },
+  {
+    "OrderId": 10506,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 625,
+    "Date": "2017-12-22T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 48"
+  },
+  {
+    "OrderId": 10507,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 4460,
+    "Date": "2017-12-12T00:00:00",
+    "ProductName": "LL Mountain Frame - Silver, 42"
+  },
+  {
+    "OrderId": 10508,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 3825,
+    "Date": "2017-12-13T00:00:00",
+    "ProductName": "ML Bottom Bracket"
+  },
+  {
+    "OrderId": 10509,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 2850,
+    "Date": "2017-12-17T00:00:00",
+    "ProductName": "LL Touring Frame - Yellow, 62"
+  },
+  {
+    "OrderId": 10510,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 2780,
+    "Date": "2017-12-07T00:00:00",
+    "ProductName": "ML Mountain Rear Wheel"
+  },
+  {
+    "OrderId": 10511,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 840,
+    "Date": "2017-12-18T00:00:00",
+    "ProductName": "Front Brakes"
+  },
+  {
+    "OrderId": 10512,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 2970,
+    "Date": "2017-12-23T00:00:00",
+    "ProductName": "ML Mountain Handlebars"
+  },
+  {
+    "OrderId": 10513,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 945,
+    "Date": "2017-12-06T00:00:00",
+    "ProductName": "Road-350-W Yellow, 48"
+  },
+  {
+    "OrderId": 10514,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2625,
+    "Date": "2017-12-04T00:00:00",
+    "ProductName": "Touring Rear Wheel"
+  },
+  {
+    "OrderId": 10515,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 390,
+    "Date": "2017-12-01T00:00:00",
+    "ProductName": "Rear Derailleur"
+  },
+  {
+    "OrderId": 10516,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 2250,
+    "Date": "2017-12-02T00:00:00",
+    "ProductName": "Touring-1000 Yellow, 46"
+  },
+  {
+    "OrderId": 10517,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 7710,
+    "Date": "2018-01-18T00:00:00",
+    "ProductName": "Road Tire Tube"
+  },
+  {
+    "OrderId": 10518,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 7975,
+    "Date": "2018-01-10T00:00:00",
+    "ProductName": "ML Mountain Frame-W - Silver, 40"
+  },
+  {
+    "OrderId": 10519,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 3285,
+    "Date": "2018-01-13T00:00:00",
+    "ProductName": "Classic Vest, M"
+  },
+  {
+    "OrderId": 10520,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 2580,
+    "Date": "2018-01-22T00:00:00",
+    "ProductName": "Touring-1000 Yellow, 60"
+  },
+  {
+    "OrderId": 10521,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2160,
+    "Date": "2018-01-26T00:00:00",
+    "ProductName": "Road-450 Red, 60"
+  },
+  {
+    "OrderId": 10522,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 1100,
+    "Date": "2018-01-25T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 44"
+  },
+  {
+    "OrderId": 10523,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 4425,
+    "Date": "2018-01-21T00:00:00",
+    "ProductName": "Mountain Bike Socks, M"
+  },
+  {
+    "OrderId": 10524,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1360,
+    "Date": "2018-01-22T00:00:00",
+    "ProductName": "Front Brakes"
+  },
+  {
+    "OrderId": 10525,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 3250,
+    "Date": "2018-01-14T00:00:00",
+    "ProductName": "Men's Sports Shorts, S"
+  },
+  {
+    "OrderId": 10526,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 5550,
+    "Date": "2018-01-21T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 40"
+  },
+  {
+    "OrderId": 10527,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 2860,
+    "Date": "2018-01-25T00:00:00",
+    "ProductName": "Mountain-500 Black, 40"
+  },
+  {
+    "OrderId": 10528,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 5320,
+    "Date": "2018-01-08T00:00:00",
+    "ProductName": "Road-750 Black, 44"
+  },
+  {
+    "OrderId": 10529,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 4050,
+    "Date": "2018-01-14T00:00:00",
+    "ProductName": "Touring Pedal"
+  },
+  {
+    "OrderId": 10530,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 3450,
+    "Date": "2018-01-24T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 62"
+  },
+  {
+    "OrderId": 10531,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 5425,
+    "Date": "2018-01-11T00:00:00",
+    "ProductName": "Touring-1000 Blue, 60"
+  },
+  {
+    "OrderId": 10532,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 4860,
+    "Date": "2018-01-12T00:00:00",
+    "ProductName": "HL Road Frame - Red, 62"
+  },
+  {
+    "OrderId": 10533,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 4695,
+    "Date": "2018-01-16T00:00:00",
+    "ProductName": "HL Road Rear Wheel"
+  },
+  {
+    "OrderId": 10534,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 610,
+    "Date": "2018-01-05T00:00:00",
+    "ProductName": "HL Road Frame - Black, 58"
+  },
+  {
+    "OrderId": 10535,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1580,
+    "Date": "2018-01-15T00:00:00",
+    "ProductName": "ML Mountain Seat/Saddle"
+  },
+  {
+    "OrderId": 10536,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 3780,
+    "Date": "2018-02-18T00:00:00",
+    "ProductName": "Mountain-400-W Silver, 40"
+  },
+  {
+    "OrderId": 10537,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 5400,
+    "Date": "2018-02-21T00:00:00",
+    "ProductName": "Road-650 Black, 44"
+  },
+  {
+    "OrderId": 10538,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 630,
+    "Date": "2018-02-18T00:00:00",
+    "ProductName": "Road-750 Black, 52"
+  },
+  {
+    "OrderId": 10539,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 3960,
+    "Date": "2018-02-04T00:00:00",
+    "ProductName": "ML Fork"
+  },
+  {
+    "OrderId": 10540,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2010,
+    "Date": "2018-02-25T00:00:00",
+    "ProductName": "ML Mountain Frame-W - Silver, 38"
+  },
+  {
+    "OrderId": 10541,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 5000,
+    "Date": "2018-02-01T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 44"
+  },
+  {
+    "OrderId": 10542,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 1995,
+    "Date": "2018-02-20T00:00:00",
+    "ProductName": "ML Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10543,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 860,
+    "Date": "2018-02-12T00:00:00",
+    "ProductName": "Mountain-100 Black, 38"
+  },
+  {
+    "OrderId": 10544,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 2150,
+    "Date": "2018-02-10T00:00:00",
+    "ProductName": "Fender Set - Mountain"
+  },
+  {
+    "OrderId": 10545,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 4050,
+    "Date": "2018-02-06T00:00:00",
+    "ProductName": "LL Road Frame - Black, 60"
+  },
+  {
+    "OrderId": 10546,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 2960,
+    "Date": "2018-02-18T00:00:00",
+    "ProductName": "Road-250 Red, 52"
+  },
+  {
+    "OrderId": 10547,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 1780,
+    "Date": "2018-02-26T00:00:00",
+    "ProductName": "Mountain-100 Black, 38"
+  },
+  {
+    "OrderId": 10548,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 8700,
+    "Date": "2018-02-03T00:00:00",
+    "ProductName": "Road-650 Red, 48"
+  },
+  {
+    "OrderId": 10549,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 3390,
+    "Date": "2018-02-03T00:00:00",
+    "ProductName": "Women's Mountain Shorts, M"
+  },
+  {
+    "OrderId": 10550,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 4425,
+    "Date": "2018-02-15T00:00:00",
+    "ProductName": "Men's Sports Shorts, S"
+  },
+  {
+    "OrderId": 10551,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 1180,
+    "Date": "2018-02-23T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 62"
+  },
+  {
+    "OrderId": 10552,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 360,
+    "Date": "2018-02-08T00:00:00",
+    "ProductName": "Short-Sleeve Classic Jersey, M"
+  },
+  {
+    "OrderId": 10553,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 2310,
+    "Date": "2018-02-13T00:00:00",
+    "ProductName": "HL Touring Frame - Yellow, 54"
+  },
+  {
+    "OrderId": 10554,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1770,
+    "Date": "2018-02-20T00:00:00",
+    "ProductName": "Long-Sleeve Logo Jersey, S"
+  },
+  {
+    "OrderId": 10555,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 3060,
+    "Date": "2018-02-26T00:00:00",
+    "ProductName": "Mountain-500 Black, 52"
+  },
+  {
+    "OrderId": 10556,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 1750,
+    "Date": "2018-02-12T00:00:00",
+    "ProductName": "Road-350-W Yellow, 40"
+  },
+  {
+    "OrderId": 10557,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 2280,
+    "Date": "2018-03-09T00:00:00",
+    "ProductName": "LL Road Tire"
+  },
+  {
+    "OrderId": 10558,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 7600,
+    "Date": "2018-03-25T00:00:00",
+    "ProductName": "Road-650 Red, 48"
+  },
+  {
+    "OrderId": 10559,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 1035,
+    "Date": "2018-03-23T00:00:00",
+    "ProductName": "Rear Brakes"
+  },
+  {
+    "OrderId": 10560,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1245,
+    "Date": "2018-03-01T00:00:00",
+    "ProductName": "Road-450 Red, 60"
+  },
+  {
+    "OrderId": 10561,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2860,
+    "Date": "2018-03-19T00:00:00",
+    "ProductName": "HL Mountain Pedal"
+  },
+  {
+    "OrderId": 10562,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 440,
+    "Date": "2018-03-19T00:00:00",
+    "ProductName": "LL Mountain Frame - Silver, 52"
+  },
+  {
+    "OrderId": 10563,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 4665,
+    "Date": "2018-03-02T00:00:00",
+    "ProductName": "Road-650 Red, 58"
+  },
+  {
+    "OrderId": 10564,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2270,
+    "Date": "2018-03-15T00:00:00",
+    "ProductName": "Mountain-500 Silver, 48"
+  },
+  {
+    "OrderId": 10565,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 5000,
+    "Date": "2018-03-09T00:00:00",
+    "ProductName": "Women's Tights, L"
+  },
+  {
+    "OrderId": 10566,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 5100,
+    "Date": "2018-03-23T00:00:00",
+    "ProductName": "ML Mountain Pedal"
+  },
+  {
+    "OrderId": 10567,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 2120,
+    "Date": "2018-03-11T00:00:00",
+    "ProductName": "Mountain-400-W Silver, 38"
+  },
+  {
+    "OrderId": 10568,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 5140,
+    "Date": "2018-03-05T00:00:00",
+    "ProductName": "Road-350-W Yellow, 44"
+  },
+  {
+    "OrderId": 10569,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 6210,
+    "Date": "2018-03-19T00:00:00",
+    "ProductName": "LL Mountain Frame - Silver, 52"
+  },
+  {
+    "OrderId": 10570,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 9510,
+    "Date": "2018-03-19T00:00:00",
+    "ProductName": "HL Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10571,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 7600,
+    "Date": "2018-03-21T00:00:00",
+    "ProductName": "HL Touring Frame - Blue, 50"
+  },
+  {
+    "OrderId": 10572,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 5420,
+    "Date": "2018-03-15T00:00:00",
+    "ProductName": "Road Tire Tube"
+  },
+  {
+    "OrderId": 10573,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 1980,
+    "Date": "2018-03-05T00:00:00",
+    "ProductName": "ML Headset"
+  },
+  {
+    "OrderId": 10574,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1820,
+    "Date": "2018-03-07T00:00:00",
+    "ProductName": "Road Tire Tube"
+  },
+  {
+    "OrderId": 10575,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1670,
+    "Date": "2018-03-21T00:00:00",
+    "ProductName": "Road Tire Tube"
+  },
+  {
+    "OrderId": 10576,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 4800,
+    "Date": "2018-03-08T00:00:00",
+    "ProductName": "Touring-Panniers, Large"
+  },
+  {
+    "OrderId": 10577,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 2925,
+    "Date": "2018-03-03T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 62"
+  },
+  {
+    "OrderId": 10578,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 2940,
+    "Date": "2018-04-11T00:00:00",
+    "ProductName": "ML Mountain Frame - Black, 40"
+  },
+  {
+    "OrderId": 10579,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 3525,
+    "Date": "2018-04-13T00:00:00",
+    "ProductName": "ML Mountain Tire"
+  },
+  {
+    "OrderId": 10580,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2475,
+    "Date": "2018-04-22T00:00:00",
+    "ProductName": "Road-450 Red, 60"
+  },
+  {
+    "OrderId": 10581,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 3315,
+    "Date": "2018-04-08T00:00:00",
+    "ProductName": "Road Bottle Cage"
+  },
+  {
+    "OrderId": 10582,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 3140,
+    "Date": "2018-04-07T00:00:00",
+    "ProductName": "HL Mountain Tire"
+  },
+  {
+    "OrderId": 10583,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 2520,
+    "Date": "2018-04-01T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 42"
+  },
+  {
+    "OrderId": 10584,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 1200,
+    "Date": "2018-04-10T00:00:00",
+    "ProductName": "LL Headset"
+  },
+  {
+    "OrderId": 10585,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2060,
+    "Date": "2018-04-21T00:00:00",
+    "ProductName": "Road-750 Black, 52"
+  },
+  {
+    "OrderId": 10586,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 7875,
+    "Date": "2018-04-02T00:00:00",
+    "ProductName": "Road-250 Red, 58"
+  },
+  {
+    "OrderId": 10587,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 1450,
+    "Date": "2018-04-07T00:00:00",
+    "ProductName": "ML Road Rear Wheel"
+  },
+  {
+    "OrderId": 10588,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 2640,
+    "Date": "2018-04-22T00:00:00",
+    "ProductName": "HL Road Front Wheel"
+  },
+  {
+    "OrderId": 10589,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 1960,
+    "Date": "2018-04-16T00:00:00",
+    "ProductName": "AWC Logo Cap"
+  },
+  {
+    "OrderId": 10590,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 2250,
+    "Date": "2018-04-23T00:00:00",
+    "ProductName": "LL Mountain Pedal"
+  },
+  {
+    "OrderId": 10591,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 4500,
+    "Date": "2018-04-05T00:00:00",
+    "ProductName": "Road-450 Red, 58"
+  },
+  {
+    "OrderId": 10592,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 5050,
+    "Date": "2018-04-11T00:00:00",
+    "ProductName": "Mountain Bike Socks, M"
+  },
+  {
+    "OrderId": 10593,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 2940,
+    "Date": "2018-04-02T00:00:00",
+    "ProductName": "Road-550-W Yellow, 38"
+  },
+  {
+    "OrderId": 10594,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2880,
+    "Date": "2018-04-14T00:00:00",
+    "ProductName": "Road-150 Red, 52"
+  },
+  {
+    "OrderId": 10595,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1050,
+    "Date": "2018-04-19T00:00:00",
+    "ProductName": "Mountain Bike Socks, L"
+  },
+  {
+    "OrderId": 10596,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1850,
+    "Date": "2018-04-02T00:00:00",
+    "ProductName": "ML Road Front Wheel"
+  },
+  {
+    "OrderId": 10597,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 3160,
+    "Date": "2018-04-01T00:00:00",
+    "ProductName": "Men's Bib-Shorts, L"
+  },
+  {
+    "OrderId": 10598,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 875,
+    "Date": "2018-04-04T00:00:00",
+    "ProductName": "Mountain-300 Black, 44"
+  },
+  {
+    "OrderId": 10599,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 3200,
+    "Date": "2018-04-08T00:00:00",
+    "ProductName": "LL Road Frame - Red, 58"
+  },
+  {
+    "OrderId": 10600,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 1380,
+    "Date": "2018-04-21T00:00:00",
+    "ProductName": "Mountain-300 Black, 44"
+  },
+  {
+    "OrderId": 10601,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 3060,
+    "Date": "2018-04-06T00:00:00",
+    "ProductName": "HL Mountain Handlebars"
+  },
+  {
+    "OrderId": 10602,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 6690,
+    "Date": "2018-05-19T00:00:00",
+    "ProductName": "Road-550-W Yellow, 42"
+  },
+  {
+    "OrderId": 10603,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 4525,
+    "Date": "2018-05-15T00:00:00",
+    "ProductName": "Cable Lock"
+  },
+  {
+    "OrderId": 10604,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 4665,
+    "Date": "2018-05-10T00:00:00",
+    "ProductName": "Touring-1000 Yellow, 50"
+  },
+  {
+    "OrderId": 10605,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 4530,
+    "Date": "2018-05-18T00:00:00",
+    "ProductName": "LL Crankset"
+  },
+  {
+    "OrderId": 10606,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 1330,
+    "Date": "2018-05-08T00:00:00",
+    "ProductName": "Road-350-W Yellow, 48"
+  },
+  {
+    "OrderId": 10607,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 1720,
+    "Date": "2018-05-20T00:00:00",
+    "ProductName": "Mountain-200 Silver, 42"
+  },
+  {
+    "OrderId": 10608,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 3750,
+    "Date": "2018-05-16T00:00:00",
+    "ProductName": "Touring-1000 Blue, 46"
+  },
+  {
+    "OrderId": 10609,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1290,
+    "Date": "2018-05-10T00:00:00",
+    "ProductName": "Road-250 Red, 48"
+  },
+  {
+    "OrderId": 10610,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 4925,
+    "Date": "2018-05-14T00:00:00",
+    "ProductName": "Men's Bib-Shorts, S"
+  },
+  {
+    "OrderId": 10611,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 4300,
+    "Date": "2018-05-22T00:00:00",
+    "ProductName": "Long-Sleeve Logo Jersey, S"
+  },
+  {
+    "OrderId": 10612,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 5740,
+    "Date": "2018-05-08T00:00:00",
+    "ProductName": "LL Headset"
+  },
+  {
+    "OrderId": 10613,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 3760,
+    "Date": "2018-05-18T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 40"
+  },
+  {
+    "OrderId": 10614,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 7920,
+    "Date": "2018-05-22T00:00:00",
+    "ProductName": "Men's Bib-Shorts, M"
+  },
+  {
+    "OrderId": 10615,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 1440,
+    "Date": "2018-05-21T00:00:00",
+    "ProductName": "Short-Sleeve Classic Jersey, L"
+  },
+  {
+    "OrderId": 10616,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 5975,
+    "Date": "2018-05-25T00:00:00",
+    "ProductName": "Sport-100 Helmet, Blue"
+  },
+  {
+    "OrderId": 10617,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 4440,
+    "Date": "2018-05-05T00:00:00",
+    "ProductName": "Road-250 Red, 52"
+  },
+  {
+    "OrderId": 10618,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2310,
+    "Date": "2018-05-24T00:00:00",
+    "ProductName": "Touring-1000 Yellow, 46"
+  },
+  {
+    "OrderId": 10619,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 2250,
+    "Date": "2018-05-06T00:00:00",
+    "ProductName": "Mountain-500 Silver, 48"
+  },
+  {
+    "OrderId": 10620,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 2320,
+    "Date": "2018-05-14T00:00:00",
+    "ProductName": "Road-650 Black, 62"
+  },
+  {
+    "OrderId": 10621,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 8370,
+    "Date": "2018-05-06T00:00:00",
+    "ProductName": "HL Road Handlebars"
+  },
+  {
+    "OrderId": 10622,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 5190,
+    "Date": "2018-06-26T00:00:00",
+    "ProductName": "Classic Vest, M"
+  },
+  {
+    "OrderId": 10623,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 925,
+    "Date": "2018-06-04T00:00:00",
+    "ProductName": "Touring-1000 Blue, 54"
+  },
+  {
+    "OrderId": 10624,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 3240,
+    "Date": "2018-06-20T00:00:00",
+    "ProductName": "Mountain-500 Silver, 40"
+  },
+  {
+    "OrderId": 10625,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 3180,
+    "Date": "2018-06-23T00:00:00",
+    "ProductName": "Full-Finger Gloves, L"
+  },
+  {
+    "OrderId": 10626,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 780,
+    "Date": "2018-06-13T00:00:00",
+    "ProductName": "LL Touring Frame - Yellow, 62"
+  },
+  {
+    "OrderId": 10627,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 4680,
+    "Date": "2018-06-08T00:00:00",
+    "ProductName": "Touring Rear Wheel"
+  },
+  {
+    "OrderId": 10628,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 2475,
+    "Date": "2018-06-25T00:00:00",
+    "ProductName": "Road-450 Red, 52"
+  },
+  {
+    "OrderId": 10629,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1920,
+    "Date": "2018-06-20T00:00:00",
+    "ProductName": "LL Mountain Frame - Silver, 42"
+  },
+  {
+    "OrderId": 10630,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 7500,
+    "Date": "2018-06-25T00:00:00",
+    "ProductName": "HL Headset"
+  },
+  {
+    "OrderId": 10631,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 5025,
+    "Date": "2018-06-26T00:00:00",
+    "ProductName": "Mountain-500 Silver, 42"
+  },
+  {
+    "OrderId": 10632,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 2400,
+    "Date": "2018-06-08T00:00:00",
+    "ProductName": "Short-Sleeve Classic Jersey, L"
+  },
+  {
+    "OrderId": 10633,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 1720,
+    "Date": "2018-06-09T00:00:00",
+    "ProductName": "ML Headset"
+  },
+  {
+    "OrderId": 10634,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 2880,
+    "Date": "2018-06-21T00:00:00",
+    "ProductName": "Taillights - Battery-Powered"
+  },
+  {
+    "OrderId": 10635,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 5430,
+    "Date": "2018-06-03T00:00:00",
+    "ProductName": "Front Derailleur"
+  },
+  {
+    "OrderId": 10636,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 4475,
+    "Date": "2018-06-19T00:00:00",
+    "ProductName": "Mountain-100 Black, 44"
+  },
+  {
+    "OrderId": 10637,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 1420,
+    "Date": "2018-06-20T00:00:00",
+    "ProductName": "Road-250 Red, 58"
+  },
+  {
+    "OrderId": 10638,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2670,
+    "Date": "2018-06-25T00:00:00",
+    "ProductName": "Fender Set - Mountain"
+  },
+  {
+    "OrderId": 10639,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1930,
+    "Date": "2018-06-02T00:00:00",
+    "ProductName": "Men's Bib-Shorts, S"
+  },
+  {
+    "OrderId": 10640,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 580,
+    "Date": "2018-06-25T00:00:00",
+    "ProductName": "LL Road Frame - Red, 58"
+  },
+  {
+    "OrderId": 10641,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1620,
+    "Date": "2018-06-12T00:00:00",
+    "ProductName": "Long-Sleeve Logo Jersey, XL"
+  },
+  {
+    "OrderId": 10642,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 4530,
+    "Date": "2018-06-02T00:00:00",
+    "ProductName": "Full-Finger Gloves, S"
+  },
+  {
+    "OrderId": 10643,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 6025,
+    "Date": "2018-06-23T00:00:00",
+    "ProductName": "ML Road Frame - Red, 60"
+  },
+  {
+    "OrderId": 10644,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 3540,
+    "Date": "2018-07-21T00:00:00",
+    "ProductName": "Men's Bib-Shorts, M"
+  },
+  {
+    "OrderId": 10645,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 3000,
+    "Date": "2018-07-01T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 52"
+  },
+  {
+    "OrderId": 10646,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 3240,
+    "Date": "2018-07-26T00:00:00",
+    "ProductName": "Front Brakes"
+  },
+  {
+    "OrderId": 10647,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 2265,
+    "Date": "2018-07-22T00:00:00",
+    "ProductName": "Hitch Rack - 4-Bike"
+  },
+  {
+    "OrderId": 10648,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 400,
+    "Date": "2018-07-09T00:00:00",
+    "ProductName": "Touring Pedal"
+  },
+  {
+    "OrderId": 10649,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 1460,
+    "Date": "2018-07-08T00:00:00",
+    "ProductName": "Women's Mountain Shorts, L"
+  },
+  {
+    "OrderId": 10650,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 1620,
+    "Date": "2018-07-18T00:00:00",
+    "ProductName": "Road-750 Black, 52"
+  },
+  {
+    "OrderId": 10651,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2400,
+    "Date": "2018-07-25T00:00:00",
+    "ProductName": "ML Road Frame - Red, 52"
+  },
+  {
+    "OrderId": 10652,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 5275,
+    "Date": "2018-07-04T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 44"
+  },
+  {
+    "OrderId": 10653,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 4475,
+    "Date": "2018-07-03T00:00:00",
+    "ProductName": "Road-550-W Yellow, 42"
+  },
+  {
+    "OrderId": 10654,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 3980,
+    "Date": "2018-07-21T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 44"
+  },
+  {
+    "OrderId": 10655,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 5240,
+    "Date": "2018-07-11T00:00:00",
+    "ProductName": "Road-350-W Yellow, 42"
+  },
+  {
+    "OrderId": 10656,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 1200,
+    "Date": "2018-07-21T00:00:00",
+    "ProductName": "Front Derailleur"
+  },
+  {
+    "OrderId": 10657,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 5700,
+    "Date": "2018-07-18T00:00:00",
+    "ProductName": "ML Mountain Frame - Black, 44"
+  },
+  {
+    "OrderId": 10658,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 5575,
+    "Date": "2018-07-01T00:00:00",
+    "ProductName": "Half-Finger Gloves, S"
+  },
+  {
+    "OrderId": 10659,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 2160,
+    "Date": "2018-07-02T00:00:00",
+    "ProductName": "Road-250 Black, 58"
+  },
+  {
+    "OrderId": 10660,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 960,
+    "Date": "2018-07-09T00:00:00",
+    "ProductName": "Road-650 Black, 62"
+  },
+  {
+    "OrderId": 10661,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1280,
+    "Date": "2018-07-04T00:00:00",
+    "ProductName": "Men's Sports Shorts, XL"
+  },
+  {
+    "OrderId": 10662,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1040,
+    "Date": "2018-07-02T00:00:00",
+    "ProductName": "LL Road Frame - Red, 52"
+  },
+  {
+    "OrderId": 10663,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 5520,
+    "Date": "2018-07-21T00:00:00",
+    "ProductName": "Road-150 Red, 56"
+  },
+  {
+    "OrderId": 10664,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1760,
+    "Date": "2018-07-25T00:00:00",
+    "ProductName": "Mountain-400-W Silver, 42"
+  },
+  {
+    "OrderId": 10665,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 4080,
+    "Date": "2018-07-07T00:00:00",
+    "ProductName": "Water Bottle - 30 oz."
+  },
+  {
+    "OrderId": 10666,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1000,
+    "Date": "2018-07-21T00:00:00",
+    "ProductName": "Touring Rear Wheel"
+  },
+  {
+    "OrderId": 10667,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 3270,
+    "Date": "2018-07-12T00:00:00",
+    "ProductName": "Road-750 Black, 52"
+  },
+  {
+    "OrderId": 10668,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 1770,
+    "Date": "2018-08-23T00:00:00",
+    "ProductName": "Mountain-500 Silver, 44"
+  },
+  {
+    "OrderId": 10669,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 2700,
+    "Date": "2018-08-09T00:00:00",
+    "ProductName": "LL Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10670,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2175,
+    "Date": "2018-08-03T00:00:00",
+    "ProductName": "HL Mountain Handlebars"
+  },
+  {
+    "OrderId": 10671,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 3375,
+    "Date": "2018-08-11T00:00:00",
+    "ProductName": "LL Mountain Frame - Silver, 44"
+  },
+  {
+    "OrderId": 10672,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2040,
+    "Date": "2018-08-01T00:00:00",
+    "ProductName": "ML Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10673,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 3000,
+    "Date": "2018-08-21T00:00:00",
+    "ProductName": "ML Fork"
+  },
+  {
+    "OrderId": 10674,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 3900,
+    "Date": "2018-08-16T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 58"
+  },
+  {
+    "OrderId": 10675,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1370,
+    "Date": "2018-08-20T00:00:00",
+    "ProductName": "Road-450 Red, 44"
+  },
+  {
+    "OrderId": 10676,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 5700,
+    "Date": "2018-08-01T00:00:00",
+    "ProductName": "Chain"
+  },
+  {
+    "OrderId": 10677,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 1275,
+    "Date": "2018-08-22T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 42"
+  },
+  {
+    "OrderId": 10678,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 4060,
+    "Date": "2018-08-13T00:00:00",
+    "ProductName": "ML Mountain Front Wheel"
+  },
+  {
+    "OrderId": 10679,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 2320,
+    "Date": "2018-08-18T00:00:00",
+    "ProductName": "Road-650 Red, 44"
+  },
+  {
+    "OrderId": 10680,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 7590,
+    "Date": "2018-08-24T00:00:00",
+    "ProductName": "ML Touring Seat/Saddle"
+  },
+  {
+    "OrderId": 10681,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 4560,
+    "Date": "2018-08-20T00:00:00",
+    "ProductName": "Long-Sleeve Logo Jersey, L"
+  },
+  {
+    "OrderId": 10682,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 7575,
+    "Date": "2018-08-20T00:00:00",
+    "ProductName": "HL Touring Frame - Yellow, 50"
+  },
+  {
+    "OrderId": 10683,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 700,
+    "Date": "2018-08-25T00:00:00",
+    "ProductName": "HL Touring Frame - Yellow, 54"
+  },
+  {
+    "OrderId": 10684,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2400,
+    "Date": "2018-08-16T00:00:00",
+    "ProductName": "LL Mountain Frame - Silver, 44"
+  },
+  {
+    "OrderId": 10685,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1390,
+    "Date": "2018-08-15T00:00:00",
+    "ProductName": "Mountain-200 Silver, 38"
+  },
+  {
+    "OrderId": 10686,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1320,
+    "Date": "2018-08-09T00:00:00",
+    "ProductName": "Mountain-300 Black, 40"
+  },
+  {
+    "OrderId": 10687,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 1680,
+    "Date": "2018-08-09T00:00:00",
+    "ProductName": "Mountain-300 Black, 48"
+  },
+  {
+    "OrderId": 10688,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 1500,
+    "Date": "2018-08-11T00:00:00",
+    "ProductName": "Mountain Pump"
+  },
+  {
+    "OrderId": 10689,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 6150,
+    "Date": "2018-09-21T00:00:00",
+    "ProductName": "Road Bottle Cage"
+  },
+  {
+    "OrderId": 10690,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 3675,
+    "Date": "2018-09-02T00:00:00",
+    "ProductName": "HL Road Frame - Black, 58"
+  },
+  {
+    "OrderId": 10691,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 2250,
+    "Date": "2018-09-05T00:00:00",
+    "ProductName": "Front Derailleur"
+  },
+  {
+    "OrderId": 10692,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 3585,
+    "Date": "2018-09-10T00:00:00",
+    "ProductName": "Touring Tire"
+  },
+  {
+    "OrderId": 10693,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 1470,
+    "Date": "2018-09-01T00:00:00",
+    "ProductName": "Mountain-300 Black, 40"
+  },
+  {
+    "OrderId": 10694,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 2260,
+    "Date": "2018-09-02T00:00:00",
+    "ProductName": "Road-250 Red, 58"
+  },
+  {
+    "OrderId": 10695,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 3765,
+    "Date": "2018-09-03T00:00:00",
+    "ProductName": "Hitch Rack - 4-Bike"
+  },
+  {
+    "OrderId": 10696,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1640,
+    "Date": "2018-09-04T00:00:00",
+    "ProductName": "Mountain-500 Black, 40"
+  },
+  {
+    "OrderId": 10697,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 4475,
+    "Date": "2018-09-09T00:00:00",
+    "ProductName": "ML Road Handlebars"
+  },
+  {
+    "OrderId": 10698,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 5975,
+    "Date": "2018-09-04T00:00:00",
+    "ProductName": "Road-150 Red, 52"
+  },
+  {
+    "OrderId": 10699,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 1100,
+    "Date": "2018-09-16T00:00:00",
+    "ProductName": "Mountain-500 Silver, 44"
+  },
+  {
+    "OrderId": 10700,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 1320,
+    "Date": "2018-09-18T00:00:00",
+    "ProductName": "LL Fork"
+  },
+  {
+    "OrderId": 10701,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 8610,
+    "Date": "2018-09-19T00:00:00",
+    "ProductName": "LL Crankset"
+  },
+  {
+    "OrderId": 10702,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 9210,
+    "Date": "2018-09-09T00:00:00",
+    "ProductName": "HL Touring Frame - Yellow, 54"
+  },
+  {
+    "OrderId": 10703,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 3700,
+    "Date": "2018-09-01T00:00:00",
+    "ProductName": "ML Road Frame - Red, 60"
+  },
+  {
+    "OrderId": 10704,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 3620,
+    "Date": "2018-09-19T00:00:00",
+    "ProductName": "Road-650 Red, 48"
+  },
+  {
+    "OrderId": 10705,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 4275,
+    "Date": "2018-09-01T00:00:00",
+    "ProductName": "Mountain-300 Black, 38"
+  },
+  {
+    "OrderId": 10706,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 2370,
+    "Date": "2018-09-03T00:00:00",
+    "ProductName": "HL Road Front Wheel"
+  },
+  {
+    "OrderId": 10707,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1870,
+    "Date": "2018-09-10T00:00:00",
+    "ProductName": "HL Fork"
+  },
+  {
+    "OrderId": 10708,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 2070,
+    "Date": "2018-09-25T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 42"
+  },
+  {
+    "OrderId": 10709,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 5025,
+    "Date": "2018-09-19T00:00:00",
+    "ProductName": "ML Mountain Seat/Saddle"
+  },
+  {
+    "OrderId": 10710,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 1080,
+    "Date": "2018-10-15T00:00:00",
+    "ProductName": "LL Road Frame - Red, 52"
+  },
+  {
+    "OrderId": 10711,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 1400,
+    "Date": "2018-10-22T00:00:00",
+    "ProductName": "LL Mountain Front Wheel"
+  },
+  {
+    "OrderId": 10712,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 4260,
+    "Date": "2018-10-01T00:00:00",
+    "ProductName": "HL Road Frame - Red, 52"
+  },
+  {
+    "OrderId": 10713,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 2745,
+    "Date": "2018-10-01T00:00:00",
+    "ProductName": "Road-550-W Yellow, 48"
+  },
+  {
+    "OrderId": 10714,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2920,
+    "Date": "2018-10-23T00:00:00",
+    "ProductName": "Short-Sleeve Classic Jersey, S"
+  },
+  {
+    "OrderId": 10715,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 3520,
+    "Date": "2018-10-11T00:00:00",
+    "ProductName": "Road-450 Red, 48"
+  },
+  {
+    "OrderId": 10716,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 4035,
+    "Date": "2018-10-20T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 54"
+  },
+  {
+    "OrderId": 10717,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1730,
+    "Date": "2018-10-05T00:00:00",
+    "ProductName": "HL Road Frame - Black, 62"
+  },
+  {
+    "OrderId": 10718,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 975,
+    "Date": "2018-10-06T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 44"
+  },
+  {
+    "OrderId": 10719,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 5700,
+    "Date": "2018-10-06T00:00:00",
+    "ProductName": "Rear Brakes"
+  },
+  {
+    "OrderId": 10720,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 5080,
+    "Date": "2018-10-18T00:00:00",
+    "ProductName": "Mountain-300 Black, 48"
+  },
+  {
+    "OrderId": 10721,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 2940,
+    "Date": "2018-10-24T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 48"
+  },
+  {
+    "OrderId": 10722,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 2670,
+    "Date": "2018-10-04T00:00:00",
+    "ProductName": "Half-Finger Gloves, S"
+  },
+  {
+    "OrderId": 10723,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 1230,
+    "Date": "2018-10-11T00:00:00",
+    "ProductName": "LL Road Front Wheel"
+  },
+  {
+    "OrderId": 10724,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 600,
+    "Date": "2018-10-08T00:00:00",
+    "ProductName": "LL Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10725,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 3700,
+    "Date": "2018-10-08T00:00:00",
+    "ProductName": "Classic Vest, S"
+  },
+  {
+    "OrderId": 10726,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 3375,
+    "Date": "2018-10-11T00:00:00",
+    "ProductName": "Mountain-500 Silver, 40"
+  },
+  {
+    "OrderId": 10727,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1500,
+    "Date": "2018-10-17T00:00:00",
+    "ProductName": "ML Mountain Frame - Black, 40"
+  },
+  {
+    "OrderId": 10728,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 370,
+    "Date": "2018-10-05T00:00:00",
+    "ProductName": "Long-Sleeve Logo Jersey, L"
+  },
+  {
+    "OrderId": 10729,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2340,
+    "Date": "2018-10-16T00:00:00",
+    "ProductName": "Road-250 Red, 58"
+  },
+  {
+    "OrderId": 10730,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 1080,
+    "Date": "2018-10-08T00:00:00",
+    "ProductName": "Road-650 Black, 62"
+  },
+  {
+    "OrderId": 10731,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 2775,
+    "Date": "2018-10-21T00:00:00",
+    "ProductName": "Minipump"
+  },
+  {
+    "OrderId": 10732,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 4380,
+    "Date": "2018-11-09T00:00:00",
+    "ProductName": "Mountain-300 Black, 44"
+  },
+  {
+    "OrderId": 10733,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 5500,
+    "Date": "2018-11-21T00:00:00",
+    "ProductName": "Touring Rear Wheel"
+  },
+  {
+    "OrderId": 10734,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 1920,
+    "Date": "2018-11-24T00:00:00",
+    "ProductName": "Touring-3000 Blue, 58"
+  },
+  {
+    "OrderId": 10735,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 765,
+    "Date": "2018-11-24T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 62"
+  },
+  {
+    "OrderId": 10736,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 370,
+    "Date": "2018-11-18T00:00:00",
+    "ProductName": "HL Mountain Rear Wheel"
+  },
+  {
+    "OrderId": 10737,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 3500,
+    "Date": "2018-11-25T00:00:00",
+    "ProductName": "Half-Finger Gloves, S"
+  },
+  {
+    "OrderId": 10738,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 825,
+    "Date": "2018-11-09T00:00:00",
+    "ProductName": "ML Mountain Frame - Black, 40"
+  },
+  {
+    "OrderId": 10739,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 490,
+    "Date": "2018-11-23T00:00:00",
+    "ProductName": "HL Road Frame - Black, 62"
+  },
+  {
+    "OrderId": 10740,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 7075,
+    "Date": "2018-11-20T00:00:00",
+    "ProductName": "Touring-3000 Blue, 54"
+  },
+  {
+    "OrderId": 10741,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 1350,
+    "Date": "2018-11-25T00:00:00",
+    "ProductName": "Mountain-400-W Silver, 42"
+  },
+  {
+    "OrderId": 10742,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 1440,
+    "Date": "2018-11-15T00:00:00",
+    "ProductName": "Touring-2000 Blue, 60"
+  },
+  {
+    "OrderId": 10743,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 2820,
+    "Date": "2018-11-13T00:00:00",
+    "ProductName": "ML Mountain Pedal"
+  },
+  {
+    "OrderId": 10744,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 2280,
+    "Date": "2018-11-12T00:00:00",
+    "ProductName": "Men's Sports Shorts, L"
+  },
+  {
+    "OrderId": 10745,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 1110,
+    "Date": "2018-11-03T00:00:00",
+    "ProductName": "HL Touring Frame - Yellow, 54"
+  },
+  {
+    "OrderId": 10746,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 1150,
+    "Date": "2018-11-23T00:00:00",
+    "ProductName": "HL Mountain Tire"
+  },
+  {
+    "OrderId": 10747,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 2040,
+    "Date": "2018-11-20T00:00:00",
+    "ProductName": "HL Road Frame - Black, 44"
+  },
+  {
+    "OrderId": 10748,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 3090,
+    "Date": "2018-11-24T00:00:00",
+    "ProductName": "ML Mountain Frame-W - Silver, 42"
+  },
+  {
+    "OrderId": 10749,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1940,
+    "Date": "2018-11-24T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 44"
+  },
+  {
+    "OrderId": 10750,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 3090,
+    "Date": "2018-11-16T00:00:00",
+    "ProductName": "HL Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10751,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 4900,
+    "Date": "2018-11-05T00:00:00",
+    "ProductName": "Men's Bib-Shorts, M"
+  },
+  {
+    "OrderId": 10752,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 3465,
+    "Date": "2018-11-07T00:00:00",
+    "ProductName": "Road-750 Black, 58"
+  },
+  {
+    "OrderId": 10753,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1110,
+    "Date": "2018-11-20T00:00:00",
+    "ProductName": "Minipump"
+  },
+  {
+    "OrderId": 10754,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 1650,
+    "Date": "2018-11-02T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 44"
+  },
+  {
+    "OrderId": 10755,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 5280,
+    "Date": "2018-12-04T00:00:00",
+    "ProductName": "Road-650 Red, 62"
+  },
+  {
+    "OrderId": 10756,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 3075,
+    "Date": "2018-12-02T00:00:00",
+    "ProductName": "Road-250 Black, 58"
+  },
+  {
+    "OrderId": 10757,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 690,
+    "Date": "2018-12-07T00:00:00",
+    "ProductName": "Mountain-100 Black, 42"
+  },
+  {
+    "OrderId": 10758,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1305,
+    "Date": "2018-12-15T00:00:00",
+    "ProductName": "LL Mountain Rear Wheel"
+  },
+  {
+    "OrderId": 10759,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 1970,
+    "Date": "2018-12-01T00:00:00",
+    "ProductName": "LL Touring Frame - Yellow, 44"
+  },
+  {
+    "OrderId": 10760,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 3760,
+    "Date": "2018-12-18T00:00:00",
+    "ProductName": "Road-550-W Yellow, 48"
+  },
+  {
+    "OrderId": 10761,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 1920,
+    "Date": "2018-12-22T00:00:00",
+    "ProductName": "Mountain-500 Black, 40"
+  },
+  {
+    "OrderId": 10762,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1360,
+    "Date": "2018-12-12T00:00:00",
+    "ProductName": "Road-250 Black, 44"
+  },
+  {
+    "OrderId": 10763,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 2525,
+    "Date": "2018-12-06T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 38"
+  },
+  {
+    "OrderId": 10764,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 5575,
+    "Date": "2018-12-20T00:00:00",
+    "ProductName": "Headlights - Dual-Beam"
+  },
+  {
+    "OrderId": 10765,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 5560,
+    "Date": "2018-12-10T00:00:00",
+    "ProductName": "Short-Sleeve Classic Jersey, M"
+  },
+  {
+    "OrderId": 10766,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 4880,
+    "Date": "2018-12-13T00:00:00",
+    "ProductName": "ML Road Frame - Red, 48"
+  },
+  {
+    "OrderId": 10767,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 8850,
+    "Date": "2018-12-03T00:00:00",
+    "ProductName": "HL Touring Frame - Blue, 46"
+  },
+  {
+    "OrderId": 10768,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 2820,
+    "Date": "2018-12-10T00:00:00",
+    "ProductName": "Men's Sports Shorts, S"
+  },
+  {
+    "OrderId": 10769,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 4000,
+    "Date": "2018-12-12T00:00:00",
+    "ProductName": "HL Touring Seat/Saddle"
+  },
+  {
+    "OrderId": 10770,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 5820,
+    "Date": "2018-12-02T00:00:00",
+    "ProductName": "ML Road Tire"
+  },
+  {
+    "OrderId": 10771,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 1275,
+    "Date": "2018-12-12T00:00:00",
+    "ProductName": "ML Mountain Handlebars"
+  },
+  {
+    "OrderId": 10772,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1310,
+    "Date": "2018-12-01T00:00:00",
+    "ProductName": "AWC Logo Cap"
+  },
+  {
+    "OrderId": 10773,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 2180,
+    "Date": "2018-12-26T00:00:00",
+    "ProductName": "Road-750 Black, 44"
+  },
+  {
+    "OrderId": 10774,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 4470,
+    "Date": "2018-12-17T00:00:00",
+    "ProductName": "Front Brakes"
+  },
+  {
+    "OrderId": 10775,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2990,
+    "Date": "2018-12-15T00:00:00",
+    "ProductName": "LL Headset"
+  },
+  {
+    "OrderId": 10776,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 7650,
+    "Date": "2018-12-18T00:00:00",
+    "ProductName": "Road-250 Red, 52"
+  },
+  {
+    "OrderId": 10777,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 780,
+    "Date": "2018-12-02T00:00:00",
+    "ProductName": "Road Tire Tube"
+  },
+  {
+    "OrderId": 10778,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2970,
+    "Date": "2018-12-13T00:00:00",
+    "ProductName": "Touring-1000 Blue, 50"
+  },
+  {
+    "OrderId": 10779,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 1155,
+    "Date": "2018-12-05T00:00:00",
+    "ProductName": "LL Road Frame - Red, 48"
+  },
+  {
+    "OrderId": 10780,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 4470,
+    "Date": "2019-01-10T00:00:00",
+    "ProductName": "Touring Tire"
+  },
+  {
+    "OrderId": 10781,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 1125,
+    "Date": "2019-01-21T00:00:00",
+    "ProductName": "Men's Sports Shorts, L"
+  },
+  {
+    "OrderId": 10782,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 645,
+    "Date": "2019-01-17T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 44"
+  },
+  {
+    "OrderId": 10783,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 675,
+    "Date": "2019-01-05T00:00:00",
+    "ProductName": "Road-350-W Yellow, 44"
+  },
+  {
+    "OrderId": 10784,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2840,
+    "Date": "2019-01-05T00:00:00",
+    "ProductName": "Fender Set - Mountain"
+  },
+  {
+    "OrderId": 10785,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 2660,
+    "Date": "2019-01-04T00:00:00",
+    "ProductName": "LL Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10786,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 4560,
+    "Date": "2019-01-12T00:00:00",
+    "ProductName": "Women's Mountain Shorts, S"
+  },
+  {
+    "OrderId": 10787,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2880,
+    "Date": "2019-01-20T00:00:00",
+    "ProductName": "ML Mountain Frame-W - Silver, 38"
+  },
+  {
+    "OrderId": 10788,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 500,
+    "Date": "2019-01-02T00:00:00",
+    "ProductName": "LL Mountain Frame - Black, 48"
+  },
+  {
+    "OrderId": 10789,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 3925,
+    "Date": "2019-01-07T00:00:00",
+    "ProductName": "LL Touring Frame - Yellow, 58"
+  },
+  {
+    "OrderId": 10790,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 5660,
+    "Date": "2019-01-18T00:00:00",
+    "ProductName": "Racing Socks, M"
+  },
+  {
+    "OrderId": 10791,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 1460,
+    "Date": "2019-01-22T00:00:00",
+    "ProductName": "Road-150 Red, 56"
+  },
+  {
+    "OrderId": 10792,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 5040,
+    "Date": "2019-01-10T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 42"
+  },
+  {
+    "OrderId": 10793,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 4830,
+    "Date": "2019-01-13T00:00:00",
+    "ProductName": "LL Road Tire"
+  },
+  {
+    "OrderId": 10794,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 3075,
+    "Date": "2019-01-22T00:00:00",
+    "ProductName": "HL Mountain Frame - Silver, 48"
+  },
+  {
+    "OrderId": 10795,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 3120,
+    "Date": "2019-01-14T00:00:00",
+    "ProductName": "Touring-1000 Blue, 60"
+  },
+  {
+    "OrderId": 10796,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 3525,
+    "Date": "2019-01-23T00:00:00",
+    "ProductName": "HL Touring Frame - Blue, 60"
+  },
+  {
+    "OrderId": 10797,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1930,
+    "Date": "2019-01-09T00:00:00",
+    "ProductName": "LL Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10798,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 2890,
+    "Date": "2019-01-02T00:00:00",
+    "ProductName": "Road-250 Black, 44"
+  },
+  {
+    "OrderId": 10799,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 1545,
+    "Date": "2019-01-17T00:00:00",
+    "ProductName": "Touring-1000 Blue, 50"
+  },
+  {
+    "OrderId": 10800,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 3630,
+    "Date": "2019-01-20T00:00:00",
+    "ProductName": "Full-Finger Gloves, S"
+  },
+  {
+    "OrderId": 10801,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 4035,
+    "Date": "2019-01-14T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 44"
+  },
+  {
+    "OrderId": 10802,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 345,
+    "Date": "2019-01-06T00:00:00",
+    "ProductName": "HL Bottom Bracket"
+  },
+  {
+    "OrderId": 10803,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 7000,
+    "Date": "2019-01-07T00:00:00",
+    "ProductName": "Mountain-500 Black, 40"
+  },
+  {
+    "OrderId": 10804,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 3060,
+    "Date": "2019-02-13T00:00:00",
+    "ProductName": "HL Headset"
+  },
+  {
+    "OrderId": 10805,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 6425,
+    "Date": "2019-02-04T00:00:00",
+    "ProductName": "LL Mountain Handlebars"
+  },
+  {
+    "OrderId": 10806,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 615,
+    "Date": "2019-02-22T00:00:00",
+    "ProductName": "Headlights - Weatherproof"
+  },
+  {
+    "OrderId": 10807,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1755,
+    "Date": "2019-02-07T00:00:00",
+    "ProductName": "Mountain-400-W Silver, 38"
+  },
+  {
+    "OrderId": 10808,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 1540,
+    "Date": "2019-02-21T00:00:00",
+    "ProductName": "LL Touring Frame - Blue, 54"
+  },
+  {
+    "OrderId": 10809,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 2820,
+    "Date": "2019-02-24T00:00:00",
+    "ProductName": "LL Fork"
+  },
+  {
+    "OrderId": 10810,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 4305,
+    "Date": "2019-02-10T00:00:00",
+    "ProductName": "Touring-2000 Blue, 46"
+  },
+  {
+    "OrderId": 10811,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 1520,
+    "Date": "2019-02-26T00:00:00",
+    "ProductName": "Racing Socks, M"
+  },
+  {
+    "OrderId": 10812,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 4725,
+    "Date": "2019-02-18T00:00:00",
+    "ProductName": "LL Mountain Handlebars"
+  },
+  {
+    "OrderId": 10813,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 6750,
+    "Date": "2019-02-16T00:00:00",
+    "ProductName": "LL Fork"
+  },
+  {
+    "OrderId": 10814,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 5540,
+    "Date": "2019-02-07T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 58"
+  },
+  {
+    "OrderId": 10815,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 1880,
+    "Date": "2019-02-24T00:00:00",
+    "ProductName": "ML Crankset"
+  },
+  {
+    "OrderId": 10816,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 6180,
+    "Date": "2019-02-26T00:00:00",
+    "ProductName": "Road-650 Black, 48"
+  },
+  {
+    "OrderId": 10817,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 9300,
+    "Date": "2019-02-03T00:00:00",
+    "ProductName": "HL Mountain Front Wheel"
+  },
+  {
+    "OrderId": 10818,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 3700,
+    "Date": "2019-02-26T00:00:00",
+    "ProductName": "Women's Mountain Shorts, M"
+  },
+  {
+    "OrderId": 10819,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 740,
+    "Date": "2019-02-01T00:00:00",
+    "ProductName": "ML Mountain Pedal"
+  },
+  {
+    "OrderId": 10820,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 4755,
+    "Date": "2019-02-23T00:00:00",
+    "ProductName": "HL Road Frame - Red, 52"
+  },
+  {
+    "OrderId": 10821,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 2570,
+    "Date": "2019-02-20T00:00:00",
+    "ProductName": "Road-250 Red, 48"
+  },
+  {
+    "OrderId": 10822,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 2860,
+    "Date": "2019-02-19T00:00:00",
+    "ProductName": "Touring-3000 Yellow, 58"
+  },
+  {
+    "OrderId": 10823,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 5430,
+    "Date": "2019-03-21T00:00:00",
+    "ProductName": "ML Road Pedal"
+  },
+  {
+    "OrderId": 10824,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 4525,
+    "Date": "2019-03-21T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 46"
+  },
+  {
+    "OrderId": 10825,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 1515,
+    "Date": "2019-03-10T00:00:00",
+    "ProductName": "Short-Sleeve Classic Jersey, L"
+  },
+  {
+    "OrderId": 10826,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 630,
+    "Date": "2019-03-15T00:00:00",
+    "ProductName": "Mountain-100 Black, 38"
+  },
+  {
+    "OrderId": 10827,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 1310,
+    "Date": "2019-03-01T00:00:00",
+    "ProductName": "Mountain-200 Silver, 46"
+  },
+  {
+    "OrderId": 10828,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 3200,
+    "Date": "2019-03-17T00:00:00",
+    "ProductName": "Touring-3000 Blue, 62"
+  },
+  {
+    "OrderId": 10829,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 3945,
+    "Date": "2019-03-20T00:00:00",
+    "ProductName": "Touring-3000 Blue, 50"
+  },
+  {
+    "OrderId": 10830,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2990,
+    "Date": "2019-03-18T00:00:00",
+    "ProductName": "ML Road Seat/Saddle"
+  },
+  {
+    "OrderId": 10831,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 1125,
+    "Date": "2019-03-22T00:00:00",
+    "ProductName": "Hydration Pack - 70 oz."
+  },
+  {
+    "OrderId": 10832,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 7950,
+    "Date": "2019-03-17T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 40"
+  },
+  {
+    "OrderId": 10833,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 2960,
+    "Date": "2019-03-25T00:00:00",
+    "ProductName": "Road-750 Black, 52"
+  },
+  {
+    "OrderId": 10834,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 6300,
+    "Date": "2019-03-20T00:00:00",
+    "ProductName": "Classic Vest, S"
+  },
+  {
+    "OrderId": 10835,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 8670,
+    "Date": "2019-03-07T00:00:00",
+    "ProductName": "Rear Derailleur"
+  },
+  {
+    "OrderId": 10836,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 3930,
+    "Date": "2019-03-23T00:00:00",
+    "ProductName": "Women's Tights, L"
+  },
+  {
+    "OrderId": 10837,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 6975,
+    "Date": "2019-03-02T00:00:00",
+    "ProductName": "ML Mountain Pedal"
+  },
+  {
+    "OrderId": 10838,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 4220,
+    "Date": "2019-03-17T00:00:00",
+    "ProductName": "Patch Kit/8 Patches"
+  },
+  {
+    "OrderId": 10839,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 3090,
+    "Date": "2019-03-25T00:00:00",
+    "ProductName": "Mountain-100 Silver, 48"
+  },
+  {
+    "OrderId": 10840,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 2380,
+    "Date": "2019-03-01T00:00:00",
+    "ProductName": "Road-650 Black, 62"
+  },
+  {
+    "OrderId": 10841,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1510,
+    "Date": "2019-03-07T00:00:00",
+    "ProductName": "HL Touring Frame - Yellow, 46"
+  },
+  {
+    "OrderId": 10842,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 1020,
+    "Date": "2019-03-19T00:00:00",
+    "ProductName": "Road-150 Red, 48"
+  },
+  {
+    "OrderId": 10843,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 6700,
+    "Date": "2019-03-26T00:00:00",
+    "ProductName": "Touring Rear Wheel"
+  },
+  {
+    "OrderId": 10844,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 4890,
+    "Date": "2019-04-02T00:00:00",
+    "ProductName": "ML Road Tire"
+  },
+  {
+    "OrderId": 10845,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 7225,
+    "Date": "2019-04-13T00:00:00",
+    "ProductName": "HL Road Frame - Black, 58"
+  },
+  {
+    "OrderId": 10846,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 795,
+    "Date": "2019-04-07T00:00:00",
+    "ProductName": "Front Derailleur"
+  },
+  {
+    "OrderId": 10847,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1785,
+    "Date": "2019-04-03T00:00:00",
+    "ProductName": "ML Mountain Pedal"
+  },
+  {
+    "OrderId": 10848,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 1850,
+    "Date": "2019-04-03T00:00:00",
+    "ProductName": "Touring-1000 Blue, 46"
+  },
+  {
+    "OrderId": 10849,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 5120,
+    "Date": "2019-04-12T00:00:00",
+    "ProductName": "Road-250 Red, 48"
+  },
+  {
+    "OrderId": 10850,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 615,
+    "Date": "2019-04-07T00:00:00",
+    "ProductName": "ML Mountain Frame-W - Silver, 40"
+  },
+  {
+    "OrderId": 10851,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2860,
+    "Date": "2019-04-05T00:00:00",
+    "ProductName": "Mountain-200 Silver, 42"
+  },
+  {
+    "OrderId": 10852,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 1525,
+    "Date": "2019-04-24T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 38"
+  },
+  {
+    "OrderId": 10853,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 7425,
+    "Date": "2019-04-15T00:00:00",
+    "ProductName": "Men's Bib-Shorts, L"
+  },
+  {
+    "OrderId": 10854,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 6080,
+    "Date": "2019-04-13T00:00:00",
+    "ProductName": "Chain"
+  },
+  {
+    "OrderId": 10855,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 2940,
+    "Date": "2019-04-04T00:00:00",
+    "ProductName": "Mountain-100 Black, 42"
+  },
+  {
+    "OrderId": 10856,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 5580,
+    "Date": "2019-04-16T00:00:00",
+    "ProductName": "Mountain-200 Silver, 42"
+  },
+  {
+    "OrderId": 10857,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 9390,
+    "Date": "2019-04-19T00:00:00",
+    "ProductName": "Road-650 Red, 62"
+  },
+  {
+    "OrderId": 10858,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 3200,
+    "Date": "2019-04-26T00:00:00",
+    "ProductName": "HL Touring Handlebars"
+  },
+  {
+    "OrderId": 10859,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 4380,
+    "Date": "2019-04-05T00:00:00",
+    "ProductName": "Touring Tire Tube"
+  },
+  {
+    "OrderId": 10860,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 4725,
+    "Date": "2019-04-06T00:00:00",
+    "ProductName": "LL Road Frame - Black, 52"
+  },
+  {
+    "OrderId": 10861,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 930,
+    "Date": "2019-04-25T00:00:00",
+    "ProductName": "Mountain-100 Silver, 42"
+  },
+  {
+    "OrderId": 10862,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 1910,
+    "Date": "2019-04-05T00:00:00",
+    "ProductName": "LL Road Frame - Black, 62"
+  },
+  {
+    "OrderId": 10863,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 2725,
+    "Date": "2019-04-16T00:00:00",
+    "ProductName": "HL Touring Seat/Saddle"
+  },
+  {
+    "OrderId": 10864,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 4720,
+    "Date": "2019-04-02T00:00:00",
+    "ProductName": "HL Touring Frame - Blue, 46"
+  },
+  {
+    "OrderId": 10865,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 5190,
+    "Date": "2019-04-10T00:00:00",
+    "ProductName": "Road-250 Black, 48"
+  },
+  {
+    "OrderId": 10866,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 2800,
+    "Date": "2019-04-26T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 48"
+  },
+  {
+    "OrderId": 10867,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 3780,
+    "Date": "2019-04-24T00:00:00",
+    "ProductName": "LL Mountain Handlebars"
+  },
+  {
+    "OrderId": 10868,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 2340,
+    "Date": "2019-04-17T00:00:00",
+    "ProductName": "LL Road Pedal"
+  },
+  {
+    "OrderId": 10869,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "New York",
+    "Amount": 4830,
+    "Date": "2019-05-12T00:00:00",
+    "ProductName": "Mountain-100 Black, 38"
+  },
+  {
+    "OrderId": 10870,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Los Angeles",
+    "Amount": 2075,
+    "Date": "2019-05-23T00:00:00",
+    "ProductName": "Road-550-W Yellow, 44"
+  },
+  {
+    "OrderId": 10871,
+    "Region": "North America",
+    "Country": "United States",
+    "City": "Denver",
+    "Amount": 3420,
+    "Date": "2019-05-21T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 40"
+  },
+  {
+    "OrderId": 10872,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Amount": 1440,
+    "Date": "2019-05-10T00:00:00",
+    "ProductName": "LL Mountain Frame - Silver, 40"
+  },
+  {
+    "OrderId": 10873,
+    "Region": "North America",
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Amount": 1680,
+    "Date": "2019-05-15T00:00:00",
+    "ProductName": "Road-550-W Yellow, 40"
+  },
+  {
+    "OrderId": 10874,
+    "Region": "South America",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Amount": 3440,
+    "Date": "2019-05-16T00:00:00",
+    "ProductName": "Racing Socks, M"
+  },
+  {
+    "OrderId": 10875,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 4695,
+    "Date": "2019-05-10T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 40"
+  },
+  {
+    "OrderId": 10876,
+    "Region": "South America",
+    "Country": "Paraguay",
+    "City": "Asuncion",
+    "Amount": 2380,
+    "Date": "2019-05-06T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 44"
+  },
+  {
+    "OrderId": 10877,
+    "Region": "Europe",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Amount": 1875,
+    "Date": "2019-05-25T00:00:00",
+    "ProductName": "HL Road Frame - Black, 52"
+  },
+  {
+    "OrderId": 10878,
+    "Region": "Europe",
+    "Country": "Germany",
+    "City": "Berlin",
+    "Amount": 7550,
+    "Date": "2019-05-14T00:00:00",
+    "ProductName": "AWC Logo Cap"
+  },
+  {
+    "OrderId": 10879,
+    "Region": "Europe",
+    "Country": "Spain",
+    "City": "Madrid",
+    "Amount": 3340,
+    "Date": "2019-05-01T00:00:00",
+    "ProductName": "HL Mountain Frame - Black, 46"
+  },
+  {
+    "OrderId": 10880,
+    "Region": "Europe",
+    "Country": "Russian Federation",
+    "City": "Moscow",
+    "Amount": 1400,
+    "Date": "2019-05-22T00:00:00",
+    "ProductName": "LL Road Pedal"
+  },
+  {
+    "OrderId": 10881,
+    "Region": "Asia",
+    "Country": "China",
+    "City": "Beijing",
+    "Amount": 6060,
+    "Date": "2019-05-22T00:00:00",
+    "ProductName": "HL Road Frame - Black, 44"
+  },
+  {
+    "OrderId": 10882,
+    "Region": "Asia",
+    "Country": "Japan",
+    "City": "Tokyo",
+    "Amount": 8370,
+    "Date": "2019-05-13T00:00:00",
+    "ProductName": "ML Mountain Frame - Black, 38"
+  },
+  {
+    "OrderId": 10883,
+    "Region": "Asia",
+    "Country": "Republic of Korea",
+    "City": "Seoul",
+    "Amount": 3550,
+    "Date": "2019-05-26T00:00:00",
+    "ProductName": "Racing Socks, M"
+  },
+  {
+    "OrderId": 10884,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Sydney",
+    "Amount": 2620,
+    "Date": "2019-05-17T00:00:00",
+    "ProductName": "Mountain-200 Silver, 42"
+  },
+  {
+    "OrderId": 10885,
+    "Region": "Australia",
+    "Country": "Australia",
+    "City": "Melbourne",
+    "Amount": 2400,
+    "Date": "2019-05-21T00:00:00",
+    "ProductName": "ML Road Frame-W - Yellow, 48"
+  },
+  {
+    "OrderId": 10886,
+    "Region": "Africa",
+    "Country": "South Africa",
+    "City": "Pretoria",
+    "Amount": 1740,
+    "Date": "2019-05-21T00:00:00",
+    "ProductName": "HL Road Frame - Black, 62"
+  },
+  {
+    "OrderId": 10887,
+    "Region": "Africa",
+    "Country": "Egypt",
+    "City": "Cairo",
+    "Amount": 500,
+    "Date": "2019-05-26T00:00:00",
+    "ProductName": "Road-350-W Yellow, 44"
+  },
+  {
+    "OrderId": 10888,
+    "Region": "South America",
+    "Country": "Argentina",
+    "City": "Buenos Aires",
+    "Amount": 780,
+    "Date": "2019-05-07T00:00:00",
+    "ProductName": "Road-150 Red, 52"
+  }
+]
