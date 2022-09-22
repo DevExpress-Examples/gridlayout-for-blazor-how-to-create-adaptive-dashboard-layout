@@ -12,9 +12,9 @@ This example shows how to use DevExpress [Grid Layout](https://docs.devexpress.c
 *Files to look at*:
 
 **Blazor Server**
-* [Index.razor](./CS/DxGridLayoutAdaptivity.Server/Pages/Index.razor)
-* [SalesByCityChart.razor](./CS/DxGridLayoutAdaptivity.Server/Components/SalesByCityChart.razor)
-* [SalesByCountryChart.razor](./CS/DxGridLayoutAdaptivity.Server/Components/SalesByCountryChart.razor)
-* [SalesDataGrid.razor](./CS/DxGridLayoutAdaptivity.Server/Components/SalesDataGrid.razor)
-* [SalesInUSChart.razor](./CS/DxGridLayoutAdaptivity.Server/Components/SalesInUSChart.razor)
+* [Index.razor](./DxGridLayoutAdaptivity/DxGridLayoutAdaptivity.Server/Pages/Index.razor)
+* [SalesByCityChart.razor](./DxGridLayoutAdaptivity/DxGridLayoutAdaptivity.Server/Components/SalesByCityChart.razor)
+* [SalesByCountryChart.razor](./DxGridLayoutAdaptivity/DxGridLayoutAdaptivity.Server/Components/SalesByCountryChart.razor)
+* [SalesDataGrid.razor](./DxGridLayoutAdaptivity/DxGridLayoutAdaptivity.Server/Components/SalesDataGrid.razor)
+* [SalesInUSChart.razor](./DxGridLayoutAdaptivity/DxGridLayoutAdaptivity.Server/Components/SalesInUSChart.razor)
 <!-- default file list end -->
