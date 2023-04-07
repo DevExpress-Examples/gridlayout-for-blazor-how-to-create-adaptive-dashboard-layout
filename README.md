@@ -8,10 +8,11 @@
 
 This example shows how to use DevExpress [Grid Layout](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridLayout) and [Layout Breakpoint](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxLayoutBreakpoint) components to create an adaptive dashboard layout. Refer to the [Adaptivity](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridLayout#adaptivity) documentation topic for more information.
 
-<!-- default file list -->
-*Files to look at*:
+![Blazor - Adaptive layout](result.png)
 
-**Blazor Server**
+<!-- default file list -->
+## Files to Review
+
 * [Index.razor](./DxGridLayoutAdaptivity/DxGridLayoutAdaptivity.Server/Pages/Index.razor)
 * [SalesByCityChart.razor](./DxGridLayoutAdaptivity/DxGridLayoutAdaptivity.Server/Components/SalesByCityChart.razor)
 * [SalesByCountryChart.razor](./DxGridLayoutAdaptivity/DxGridLayoutAdaptivity.Server/Components/SalesByCountryChart.razor)
