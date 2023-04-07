@@ -1,11 +1,11 @@
-﻿<div class="card h-100 overflow-hidden card-item">
+﻿<div class="card h-100 overflow-auto card-item" style="min-height: 300px">
     <div class="card-body">
         <DxChart Data="Sales" CssClass="h-100">
             <DxChartTitle Text="Sales Amount by City, $" />
             <DxChartCommonSeries NameField="@((SaleInfo s) => s.Date.Year)" 
                                  ArgumentField="@(s => s.City)" 
                                  ValueField="@(s => s.Amount)" 
-                                 AggregationMethod="Enumerable.Sum" 
+                                 SummaryMethod="Enumerable.Sum" 
                                  SeriesType="ChartSeriesType.SplineArea">
             </DxChartCommonSeries>
             <DxChartLegend Orientation="Orientation.Horizontal"

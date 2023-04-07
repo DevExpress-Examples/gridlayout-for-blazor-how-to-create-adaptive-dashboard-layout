@@ -1,14 +1,14 @@
-﻿<div class="card h-100 overflow-hidden card-item">
+﻿<div class="card h-100 overflow-auto card-item">
     <div class="card-body">
-        <DxChart Data="salesUS" CssClass="h-100">
+        <DxPieChart Data="salesUS" CssClass="h-100" InnerDiameter="0.5">
             <DxChartTitle Text="Total Sales in United States, $ " />
             <DxChartLegend Orientation="Orientation.Horizontal"
                            HorizontalAlignment="HorizontalAlignment.Right"
                            Position="RelativePosition.Inside" />
-            <DxChartDonutSeries ValueField="@((SaleInfo i) => i.Amount)" ArgumentField="@(i => i.City)" AggregationMethod="Enumerable.Sum">
+            <DxPieChartSeries ValueField="@((SaleInfo i) => i.Amount)" ArgumentField="@(i => i.City)" SummaryMethod="Enumerable.Sum">
                 <DxChartSeriesLabel Visible="true" />
-            </DxChartDonutSeries>
-        </DxChart>
+            </DxPieChartSeries>
+        </DxPieChart>
     </div>
 </div>
 
